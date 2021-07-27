@@ -15,7 +15,7 @@ Collecting papers about human motion capture
 8. Real-Time Multi-person Motion Capture from Multi-view Video and IMUs[[paper]](https://link.springer.com/content/pdf/10.1007/s11263-019-01270-5.pdf)
 9. Synergetic Reconstruction from 2D Pose and 3D Motion for Wide-Space Multi-Person Video Motion Capture in the Wild [[project]](http://www.ynl.t.u-tokyo.ac.jp/research/vmocap-syn/)
 
-# methods based on body model such as smpl/spml-x
+# methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
 1. Contact and Human Dynamics from Monocular Video [[code]](https://github.com/davrempe/contact-human-dynamics)
 2. DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras [[project]](http://www.liuyebin.com/dmc/dmc.html)
