@@ -51,4 +51,5 @@ Collecting papers about human motion capture
 5. 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks [[code]](https://github.com/3dpose/3D-Multi-Person-Pose)
 6. CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wandt_CanonPose_Self-Supervised_Monocular_3D_Human_Pose_Estimation_in_the_Wild_CVPR_2021_paper.pdf)
 7. 3D Human Pose Estimation with Spatial and Temporal Transformers [[code]](https://github.com/zczcwh/PoseFormer?utm_source=catalyzex.com)
+8. Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild [[paper]](https://arxiv.org/pdf/2003.07581.pdf)
 
