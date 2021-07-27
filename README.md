@@ -42,3 +42,13 @@ Collecting papers about human motion capture
 23. RobustFusion: Robust Volumetric Performance Reconstruction under Human-object Interactions from Monocular RGBD Stream [[paper]](https://arxiv.org/pdf/2104.14837.pdf)
 24. Monocular Real-time Full Body Capture with Inter-part Correlations [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.pdf)
 25. Learning Complex 3D Human Self-Contact [[pdf]](https://arxiv.org/pdf/2012.10366.pdf)
+
+# human 3d pose estimation
+1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
+2. MeTRAbs: Metric-Scale Truncation-Robust Heatmaps for Absolute 3D Human Pose Estimation [[code]](https://github.com/isarandi/metrabs)
+3. Part-aware Measurement for Robust Multi-View Multi-Human 3D Pose Estimation and Tracking [[code]](https://github.com/B10532021/Part-Aware_Measurement_for_3D_Pose_Estimation_and_Tracking)
+4. Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo [[code]](https://github.com/jiahaoLjh/PlaneSweepPose)
+5. 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks [[code]](https://github.com/3dpose/3D-Multi-Person-Pose)
+6. CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wandt_CanonPose_Self-Supervised_Monocular_3D_Human_Pose_Estimation_in_the_Wild_CVPR_2021_paper.pdf)
+7. 3D Human Pose Estimation with Spatial and Temporal Transformers [[code]](https://github.com/zczcwh/PoseFormer?utm_source=catalyzex.com)
+
