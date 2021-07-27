@@ -14,5 +14,15 @@ Collecting papers about human motion capture
 7. TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking [[project]](http://www.cs.cmu.edu/~ILIM/projects/IM/TesseTrack/)
 
 # methods based on body model such as smpl/spml-x
+[note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) ]
 1. DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras [[project]](http://www.liuyebin.com/dmc/dmc.html)
-2. 
+2. Monocular, One-stage, Regression of Multiple 3D People [[code]](https://github.com/Arthur151/ROMP)
+3. PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop [[project]](https://hongwenzhang.github.io/pymaf/)
+4. End-to-End Human Pose and Mesh Reconstruction with Transformers [[code]](https://github.com/microsoft/MeshTransformer)
+5. Pose2Pose: 3D Positional Pose-Guided 3D Rotational Pose Prediction for Expressive 3D Human Pose and Mesh Estimation[[paper]](https://arxiv.org/pdf/2011.11534.pdf)
+6. AGORA: Avatars in Geography Optimized for Regression Analysis [[code]](https://github.com/pixelite1201/agora_evaluation)
+7. Real-time RGBD-based Extended Body Pose Estimation [[code]](https://github.com/rmbashirov/rgbd-kinect-pose)
+8. EasyMocap [[code]](https://github.com/zju3dv/EasyMocap)
+9. PanoMan: Sparse Localized Components–based Model for Full Human Motions [[paper]](https://dl.acm.org/doi/10.1145/3447244)
+10. Monocular Total Capture: Posing Face, Body and Hands in the Wild [[code]](https://github.com/CMU-Perceptual-Computing-Lab/MonocularTotalCapture)
+
