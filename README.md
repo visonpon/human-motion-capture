@@ -13,7 +13,7 @@ Collecting papers about human motion capture
 6. TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking [[project]](http://www.cs.cmu.edu/~ILIM/projects/IM/TesseTrack/)
 
 # methods based on body model such as smpl/spml-x
-`note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
+`Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
 1. Contact and Human Dynamics from Monocular Video [[code]](https://github.com/davrempe/contact-human-dynamics)
 2. DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras [[project]](http://www.liuyebin.com/dmc/dmc.html)
 3. Monocular, One-stage, Regression of Multiple 3D People [[code]](https://github.com/Arthur151/ROMP)
