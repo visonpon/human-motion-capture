@@ -56,4 +56,5 @@ Collecting papers about human motion capture
 7. 3D Human Pose Estimation with Spatial and Temporal Transformers [[code]](https://github.com/zczcwh/PoseFormer?utm_source=catalyzex.com)
 8. Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild [[paper]](https://arxiv.org/pdf/2003.07581.pdf)
 9. AdaFuse: Adaptive Multiview Fusion for Accurate Human Pose Estimation in the Wild [[code]](https://github.com/zhezh/adafuse-3d-human-pose)
+10. Improving Robustness and Accuracy via Relative Information Encoding in 3D Human Pose Estimation [[code]](https://github.com/paTRICK-swk/Pose3D-RIE)
 
