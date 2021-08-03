@@ -44,6 +44,7 @@ Collecting papers about human motion capture
 24. Monocular Real-time Full Body Capture with Inter-part Correlations [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.pdf)
 25. Learning Complex 3D Human Self-Contact [[pdf]](https://arxiv.org/pdf/2012.10366.pdf)
 26. Learning Local Recurrent Models for Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2107.12847.pdf)
+27. LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering [[pdf]](https://arxiv.org/pdf/2108.00351.pdf)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
