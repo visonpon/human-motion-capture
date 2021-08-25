@@ -16,6 +16,7 @@ Collecting papers about human motion capture
 9. Synergetic Reconstruction from 2D Pose and 3D Motion for Wide-Space Multi-Person Video Motion Capture in the Wild [[project]](http://www.ynl.t.u-tokyo.ac.jp/research/vmocap-syn/)
 10. MonoPerfCap: Human Performance Capture from Monocular Video [[project]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
 11. Capturing Detailed Deformations of Moving Human Bodies [[project]](https://ankachan.github.io/Projects/MocapCheckerboard/MocapCheckerboard.html)
+12. Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras [[project]](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html)
 
 # methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
