@@ -51,6 +51,7 @@ Collecting papers about human motion capture
 27. LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering [[pdf]](https://arxiv.org/pdf/2108.00351.pdf)
 28. Probabilistic Modeling for Human Mesh Recovery [[code]](https://www.seas.upenn.edu/~nkolot/projects/prohmr/)
 29. Encoder-decoder with Multi-level Attention for 3D Human Shape and PoseEstimation [[code]](https://github.com/ziniuwan/maed)
+30. LEMO: Learning Motion Priors for 4D Human Body Capture in 3D Scenes [[ptoject]](https://sanweiliti.github.io/LEMO/LEMO.html)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
