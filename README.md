@@ -34,7 +34,7 @@ Collecting papers about human motion capture
 10. PanoMan: Sparse Localized Components–based Model for Full Human Motions [[paper]](https://dl.acm.org/doi/10.1145/3447244)
 11. Monocular Total Capture: Posing Face, Body and Hands in the Wild [[code]](https://github.com/CMU-Perceptual-Computing-Lab/MonocularTotalCapture)
 12. Full-body motion capture for multiple closely interacting persons [[paper]](http://cic.tju.edu.cn/faculty/likun/GM.pdf)
-13. PARE: Part Attention Regressor for 3D Human Body Estimation [[project]](https://pare.is.tue.mpg.de/)
+13. PARE: Part Attention Regressor for 3D Human Body Estimation [[project]](https://pare.is.tue.mpg.de/) | [[code]](https://github.com/mkocabas/PARE)
 14. DSFN: Dynamic Surface Function Networks for Clothed Human Bodies [[code]](https://github.com/andreiburov/DSFN?utm_source=catalyzex.com)
 15. 3D Human Pose and Shape Estimation Through Collaborative Learning and Multi-view Model-fitting [[code]](https://github.com/leezhongguo/MVSPIN_NEW)
 16. On Self-Contact and Human Pose [[project]](https://tuch.is.tue.mpg.de/)
@@ -52,6 +52,9 @@ Collecting papers about human motion capture
 28. Probabilistic Modeling for Human Mesh Recovery [[code]](https://www.seas.upenn.edu/~nkolot/projects/prohmr/)
 29. Encoder-decoder with Multi-level Attention for 3D Human Shape and PoseEstimation [[code]](https://github.com/ziniuwan/maed)
 30. LEMO: Learning Motion Priors for 4D Human Body Capture in 3D Scenes [[ptoject]](https://sanweiliti.github.io/LEMO/LEMO.html)
+31. Shape-aware Multi-Person Pose Estimation from Multi-View Images [[project]](https://ait.ethz.ch/projects/2021/multi-human-pose/)
+32. SPEC: Seeing People in the Wild with an Estimated Camera [[project]](https://github.com/mkocabas/SPEC)
+33. Learning to Regress Bodies from Images using Differentiable Semantic Rendering [[code]](https://github.com/saidwivedi/DSR)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
