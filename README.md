@@ -55,6 +55,7 @@ Collecting papers about human motion capture
 31. Shape-aware Multi-Person Pose Estimation from Multi-View Images [[project]](https://ait.ethz.ch/projects/2021/multi-human-pose/)
 32. SPEC: Seeing People in the Wild with an Estimated Camera [[project]](https://github.com/mkocabas/SPEC)
 33. Learning to Regress Bodies from Images using Differentiable Semantic Rendering [[code]](https://github.com/saidwivedi/DSR)
+34. Mesh Graphormer [[code]](https://github.com/microsoft/MeshGraphormer)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
