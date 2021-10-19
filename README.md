@@ -57,6 +57,7 @@ Collecting papers about human motion capture
 33. Learning to Regress Bodies from Images using Differentiable Semantic Rendering [[code]](https://github.com/saidwivedi/DSR)
 34. Mesh Graphormer [[code]](https://github.com/microsoft/MeshGraphormer)
 35. VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds [[pdf]](https://arxiv.org/pdf/2110.08729.pdf)
+36. Leveraging MoCap Data for Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2110.09243.pdf)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
