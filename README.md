@@ -18,6 +18,7 @@ Collecting papers about human motion capture
 11. Capturing Detailed Deformations of Moving Human Bodies [[project]](https://ankachan.github.io/Projects/MocapCheckerboard/MocapCheckerboard.html)
 12. Lightweight Multi-person Total Motion Capture Using Sparse Multi-view Cameras [[project]](http://www.liuyebin.com/lwtotalcap/lwtotalcap.html)
 13. Learning Dynamical Human-Joint Affinity for 3D Pose Estimation in Videos [[pdf]](https://arxiv.org/pdf/2109.07353.pdf)
+14. Direct Multi-view Multi-person 3D Human Pose Estimation [[code]](https://github.com/sail-sg/mvp)
 
 
 # methods based on body model such as smpl/smpl-x
