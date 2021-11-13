@@ -62,6 +62,7 @@ Collecting papers about human motion capture
 37. PIXIE: Collaborative Regression of Expressive Bodies [[code]] (https://github.com/YadiraF/PIXIE)
 38. Dynamic Multi-Person Mesh Recovery From Uncalibrated Multi-View Cameras [[pdf]](https://arxiv.org/pdf/2110.10355.pdf)
 39. Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild [[code]](https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman)
+40. Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation [[code]](https://github.com/syguan96/dynaboa)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
