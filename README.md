@@ -59,10 +59,11 @@ Collecting papers about human motion capture
 34. Mesh Graphormer [[code]](https://github.com/microsoft/MeshGraphormer)
 35. VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds [[pdf]](https://arxiv.org/pdf/2110.08729.pdf)
 36. Leveraging MoCap Data for Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2110.09243.pdf)
-37. PIXIE: Collaborative Regression of Expressive Bodies [[code]] (https://github.com/YadiraF/PIXIE)
+37. PIXIE: Collaborative Regression of Expressive Bodies [[code]](https://github.com/YadiraF/PIXIE)
 38. Dynamic Multi-Person Mesh Recovery From Uncalibrated Multi-View Cameras [[pdf]](https://arxiv.org/pdf/2110.10355.pdf)
 39. Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild [[code]](https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman)
 40. Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation [[code]](https://github.com/syguan96/dynaboa)
+41. Tracking People with 3D Representations [[code]](https://brjathu.github.io/T3DP/)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
