@@ -65,6 +65,7 @@ Collecting papers about human motion capture
 39. Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild [[code]](https://github.com/akashsengupta1997/HierarchicalProbabilistic3DHuman)
 40. Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation [[code]](https://github.com/syguan96/dynaboa)
 41. Tracking People with 3D Representations [[code]](https://brjathu.github.io/T3DP/)
+42. LatentHuman: Shape-and-Pose Disentangled Latent Representation for for Human Bodies[[project]](https://latenthuman.github.io/)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
