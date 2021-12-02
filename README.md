@@ -66,6 +66,7 @@ Collecting papers about human motion capture
 40. Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation [[code]](https://github.com/syguan96/dynaboa)
 41. Tracking People with 3D Representations [[code]](https://brjathu.github.io/T3DP/)
 42. LatentHuman: Shape-and-Pose Disentangled Latent Representation for for Human Bodies[[project]](https://latenthuman.github.io/)
+43. PoseBERT [[project]](https://europe.naverlabs.com/blog/posebert/)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
