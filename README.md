@@ -67,6 +67,7 @@ Collecting papers about human motion capture
 41. Tracking People with 3D Representations [[code]](https://brjathu.github.io/T3DP/)
 42. LatentHuman: Shape-and-Pose Disentangled Latent Representation for for Human Bodies[[project]](https://latenthuman.github.io/)
 43. PoseBERT [[project]](https://europe.naverlabs.com/blog/posebert/)
+44. Camera Motion Agnostic 3D Human Pose Estimation [[code]](https://github.com/seonghyunkim1212/GMR)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
