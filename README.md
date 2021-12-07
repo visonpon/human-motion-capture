@@ -69,6 +69,7 @@ Collecting papers about human motion capture
 43. PoseBERT [[project]](https://europe.naverlabs.com/blog/posebert/)
 44. Camera Motion Agnostic 3D Human Pose Estimation [[code]](https://github.com/seonghyunkim1212/GMR)
 45. GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras [[project]](https://www.ye-yuan.com/glamr/)
+46. Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation [[project]](https://sites.google.com/view/scope-human/home#h.j4u4ho36ixe8)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
