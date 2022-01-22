@@ -21,6 +21,7 @@ Collecting papers about human motion capture
 14. Direct Multi-view Multi-person 3D Human Pose Estimation [[code]](https://github.com/sail-sg/mvp)
 15. Human Performance Capture from Monocular Video in the Wild [[pdf]](https://arxiv.org/pdf/2111.14672.pdf)
 16. Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning[[pdf]](https://arxiv.org/pdf/2111.15056.pdf) | [[code]](https://github.com/hanbyel0105/CamDistHumanPose3D)
+17. Human Dynamics from Monocular Video with Dynamic Camera Movements [[code]](https://github.com/yul85/movingcam)
 
 # methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
