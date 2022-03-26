@@ -89,3 +89,9 @@ Collecting papers about human motion capture
 11. Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows [[code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
 12. VoxelTrack: Multi-Person 3D Human Pose Estimation and Tracking in the Wild [[pdf]](https://arxiv.org/pdf/2108.02452.pdf)
 13. MetaPose: Fast 3D Pose from Multiple Views without 3D Supervision [[pdf]](https://arxiv.org/pdf/2108.04869.pdf)
+
+
+# simplify optical or inertial based motion capture
+1. TransPose [[code]](https://github.com/Xinyu-Yi/TransPose)
+2. Physical Inertial Poser (PIP):Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors [[project]](https://xinyu-yi.github.io/PIP/)
+3. EM-POSE: 3D Human Pose Estimation from Sparse Electromagnetic Trackers [[code]](https://github.com/facebookresearch/em-pose)
