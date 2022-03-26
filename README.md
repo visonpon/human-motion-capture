@@ -95,3 +95,13 @@ Collecting papers about human motion capture
 1. TransPose [[code]](https://github.com/Xinyu-Yi/TransPose)
 2. Physical Inertial Poser (PIP):Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors [[project]](https://xinyu-yi.github.io/PIP/)
 3. EM-POSE: 3D Human Pose Estimation from Sparse Electromagnetic Trackers [[code]](https://github.com/facebookresearch/em-pose)
+
+
+# human motion capture in 3d scene
+1. 4D Human Body Capture from Egocentric Video via 3D Scene Grounding [[project]](https://aptx4869lm.github.io/4DEgocentricBodyCapture/)
+2. LEMO Learning Motion Priors for 4D Human Body Capture in 3D Scenes [[project]](https://github.com/sanweiliti/LEMO)
+3. Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors [[project]](http://virtualhumans.mpi-inf.mpg.de/hps/)
+4. EgoBody Dataset:Human Body Shape, Motion and Social Interactions from Head-Mounted Devices[[project]](https://sanweiliti.github.io/egobody/egobody.html)
+5. GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping [[project]](https://goal.is.tue.mpg.de/)
+6. HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR [[project]](https://climbingdaily.github.io/hsc4d/)
+7. Human-Aware Object Placement for Visual Environment Reconstruction [[project]](https://mover.is.tue.mpg.de/index.html)
