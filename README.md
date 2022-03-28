@@ -74,6 +74,7 @@ Collecting papers about human motion capture
 46. Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation [[project]](https://sites.google.com/view/scope-human/home#h.j4u4ho36ixe8)
 47. ICON: Implicit Clothed humans Obtained from Normals [[code]](https://github.com/YuliangXiu/ICON)
 48. Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video [[project]](https://mps-net.github.io/MPS-Net/)
+49. Occluded Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2203.13349.pdf)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
@@ -89,6 +90,7 @@ Collecting papers about human motion capture
 11. Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows [[code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
 12. VoxelTrack: Multi-Person 3D Human Pose Estimation and Tracking in the Wild [[pdf]](https://arxiv.org/pdf/2108.02452.pdf)
 13. MetaPose: Fast 3D Pose from Multiple Views without 3D Supervision [[pdf]](https://arxiv.org/pdf/2108.04869.pdf)
+14. CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation[[https://arxiv.org/pdf/2203.13387.pdf]]
 
 
 # simplify optical or inertial based motion capture
