@@ -91,7 +91,7 @@ Collecting papers about human motion capture
 11. Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows [[code]](https://github.com/twehrbein/Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows)
 12. VoxelTrack: Multi-Person 3D Human Pose Estimation and Tracking in the Wild [[pdf]](https://arxiv.org/pdf/2108.02452.pdf)
 13. MetaPose: Fast 3D Pose from Multiple Views without 3D Supervision [[pdf]](https://arxiv.org/pdf/2108.04869.pdf)
-14. CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation[[https://arxiv.org/pdf/2203.13387.pdf]]
+14. CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation[[pdf]](https://arxiv.org/pdf/2203.13387.pdf)
 
 
 # simplify optical or inertial based motion capture
