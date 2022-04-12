@@ -24,6 +24,7 @@ Collecting papers about human motion capture
 17. Human Dynamics from Monocular Video with Dynamic Camera Movements [[code]](https://github.com/yul85/movingcam)
 18. AirPose: Multi-View Fusion Network for Aerial 3D Human Pose and Shape Estimation [[code]](https://github.com/robot-perception-group/AirPose)
 19. Neural MoCon: Neural Motion Control for Physically Plausible Human Motion Capture [[project]](https://www.yangangwang.com/papers/HBZ-NM-2022-03.html)
+20. Permutation-Invariant Relational Network for Multi-person 3D Pose Estimation [[pdf]](https://arxiv.org/pdf/2204.04913.pdf)
 
 # methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
