@@ -100,6 +100,7 @@ Collecting papers about human motion capture
 13. MetaPose: Fast 3D Pose from Multiple Views without 3D Supervision [[pdf]](https://arxiv.org/pdf/2108.04869.pdf)
 14. CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation[[pdf]](https://arxiv.org/pdf/2203.13387.pdf)
 15. Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation [[project]](https://sites.google.com/view/mrp-net)
+16. Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization [[code]](https://github.com/YxZhxn/Ray3D)
 
 
 # simplify optical or inertial based motion capture
