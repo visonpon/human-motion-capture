@@ -17,8 +17,7 @@ Collecting papers about human motion capture
 ![image](https://github.com/visonpon/human-motion-capture/blob/main/images/VNET.png)
 11. TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking [[project]](http://www.cs.cmu.edu/~ILIM/projects/IM/TesseTrack/)
 ![image](https://github.com/visonpon/human-motion-capture/blob/main/images/TesseTrack.png)
-13. TransPose Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors [[project]](https://xinyu-yi.github.io/TransPose/?utm_source=catalyzex.com)
-14. Real-Time Multi-person Motion Capture from Multi-view Video and IMUs[[paper]](https://link.springer.com/content/pdf/10.1007/s11263-019-01270-5.pdf)
+
 15. Synergetic Reconstruction from 2D Pose and 3D Motion for Wide-Space Multi-Person Video Motion Capture in the Wild [[project]](http://www.ynl.t.u-tokyo.ac.jp/research/vmocap-syn/)
 16. MonoPerfCap: Human Performance Capture from Monocular Video [[project]](http://gvv.mpi-inf.mpg.de/projects/wxu/MonoPerfCap/)
 17. Capturing Detailed Deformations of Moving Human Bodies [[project]](https://ankachan.github.io/Projects/MocapCheckerboard/MocapCheckerboard.html)
@@ -103,11 +102,12 @@ Collecting papers about human motion capture
 
 
 # simplify optical or inertial based motion capture
-1. TransPose [[code]](https://github.com/Xinyu-Yi/TransPose)
-2. Physical Inertial Poser (PIP):Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors [[project]](https://xinyu-yi.github.io/PIP/)
-3. EM-POSE: 3D Human Pose Estimation from Sparse Electromagnetic Trackers [[code]](https://github.com/facebookresearch/em-pose)
-4. HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions [[pdf]](https://arxiv.org/pdf/2203.09287v1.pdf)
-5. Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs [[pdf]](https://arxiv.org/pdf/2203.15720v1.pdf)
+1. Real-Time Multi-person Motion Capture from Multi-view Video and IMUs[[paper]](https://link.springer.com/content/pdf/10.1007/s11263-019-01270-5.pdf)
+2. TransPose [[code]](https://github.com/Xinyu-Yi/TransPose)
+3. Physical Inertial Poser (PIP):Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors [[project]](https://xinyu-yi.github.io/PIP/)
+4. EM-POSE: 3D Human Pose Estimation from Sparse Electromagnetic Trackers [[code]](https://github.com/facebookresearch/em-pose)
+5. HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions [[pdf]](https://arxiv.org/pdf/2203.09287v1.pdf)
+6. Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs [[pdf]](https://arxiv.org/pdf/2203.15720v1.pdf)
 
 
 # human motion capture in 3d scene
