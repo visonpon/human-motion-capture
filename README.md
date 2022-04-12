@@ -6,6 +6,7 @@ Collecting papers about human motion capture
 `NOTE : Since motion capture is a field that has been studied for many years, I will collect the up to date papers first and then try to gather the old but classical one.`
 # methods based directly on video
 1. Physically Plausible Monocular 3D Motion Capture [[project]](http://gvv.mpi-inf.mpg.de/projects/PhysCap/)
+2. * 
 ![image](https://github.com/visonpon/human-motion-capture/blob/main/images/physicsCap.png)
 3. "Neural PhysCap" Neural Monocular 3D Human Motion Capture with Physical Awareness [[project]](http://gvv.mpi-inf.mpg.de/projects/PhysAware/)
 4. XNect: real-time multi-person 3D motion capture with a single RGB camera[[project]](http://gvv.mpi-inf.mpg.de/projects/XNect/)
