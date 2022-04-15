@@ -83,6 +83,7 @@ Collecting papers about human motion capture
 47. ICON: Implicit Clothed humans Obtained from Normals [[code]](https://github.com/YuliangXiu/ICON)
 48. Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video [[project]](https://mps-net.github.io/MPS-Net/)
 49. Occluded Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2203.13349.pdf)
+50. Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation [[code]](https://github.com/syguan96/DynaBOA)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
