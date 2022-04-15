@@ -120,3 +120,4 @@ Collecting papers about human motion capture
 5. GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping [[project]](https://goal.is.tue.mpg.de/)
 6. HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR [[project]](https://climbingdaily.github.io/hsc4d/)
 7. Human-Aware Object Placement for Visual Environment Reconstruction [[project]](https://mover.is.tue.mpg.de/index.html)
+8. COAP: Compositional Articulated Occupancy of People [[project]](https://neuralbodies.github.io/COAP/index.html)
