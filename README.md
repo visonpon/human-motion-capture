@@ -124,6 +124,7 @@ Collecting papers about human motion capture
 14. CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation[[pdf]](https://arxiv.org/pdf/2203.13387.pdf)
 15. Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation [[project]](https://sites.google.com/view/mrp-net)
 16. Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization [[code]](https://github.com/YxZhxn/Ray3D)
+17. PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation [[code]](https://github.com/noboevbo/PedRec)
 
 
 # simplify optical or inertial based motion capture
