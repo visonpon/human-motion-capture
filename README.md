@@ -79,7 +79,7 @@ Collecting papers about human motion capture
 34. Collaborative Regression of Expressive Bodies using Moderation [[project]](https://pixie.is.tue.mpg.de/)
 35. Deep3DPose: Realtime Reconstruction of Arbitrarily Posed Human Bodies from Single RGB Images [[paper]](https://arxiv.org/pdf/2106.11536.pdf)
 36. RobustFusion: Robust Volumetric Performance Reconstruction under Human-object Interactions from Monocular RGBD Stream [[paper]](https://arxiv.org/pdf/2104.14837.pdf)
-37. Monocular Real-time Full Body Capture with Inter-part Correlations [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.pdf)
+37. Monocular Real-time Full Body Capture with Inter-part Correlations [[project]](https://calciferzh.github.io/publications/zhou2021monocular)
 38. Learning Complex 3D Human Self-Contact [[pdf]](https://arxiv.org/pdf/2012.10366.pdf)
 39. Learning Local Recurrent Models for Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2107.12847.pdf)
 40. LASOR: Learning Accurate 3D Human Pose and Shape Via Synthetic Occlusion-Aware Data and Neural Mesh Rendering [[pdf]](https://arxiv.org/pdf/2108.00351.pdf)
