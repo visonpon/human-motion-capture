@@ -90,7 +90,7 @@ Collecting papers about human motion capture
 45. SPEC: Seeing People in the Wild with an Estimated Camera [[project]](https://github.com/mkocabas/SPEC)
 46. Learning to Regress Bodies from Images using Differentiable Semantic Rendering [[code]](https://github.com/saidwivedi/DSR)
 47. Mesh Graphormer [[code]](https://github.com/microsoft/MeshGraphormer)
-48. VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds [[pdf]](https://arxiv.org/pdf/2110.08729.pdf)
+48. VoteHMR: Occlusion-Aware Voting Network for Robust 3D Human Mesh Recovery from Partial Point Clouds [[pdf]](https://arxiv.org/pdf/2110.08729.pdf) | [[code]](https://github.com/hanabi7/VoteHMR)
 49. Leveraging MoCap Data for Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2110.09243.pdf)
 50. PIXIE: Collaborative Regression of Expressive Bodies [[code]](https://github.com/YadiraF/PIXIE)
 51. Dynamic Multi-Person Mesh Recovery From Uncalibrated Multi-View Cameras [[pdf]](https://arxiv.org/pdf/2110.10355.pdf) }| [[code]](https://github.com/boycehbz/DMMR)
