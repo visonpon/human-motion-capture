@@ -147,3 +147,4 @@ Collecting papers about human motion capture
 8. COAP: Compositional Articulated Occupancy of People [[project]](https://neuralbodies.github.io/COAP/index.html)
 9. BEHAVE: Dataset and Method for Tracking Human Object Interactions [[project]](http://virtualhumans.mpi-inf.mpg.de/behave/)
 10. Synthesizing Long-Term 3D Human Motion and Interaction in 3D [[project]](https://jiashunwang.github.io/Long-term-Motion-in-3D-Scenes/)
+11. Visually plausible human-object interaction capture from wearable sensors [[project]](http://virtualhumans.mpi-inf.mpg.de/hops/)
