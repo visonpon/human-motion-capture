@@ -40,6 +40,7 @@ Collecting papers about human motion capture
 ![image](https://github.com/visonpon/human-motion-capture/blob/main/images/Neural_MoCon.png)
 36. Permutation-Invariant Relational Network for Multi-person 3D Pose Estimation [[pdf]](https://arxiv.org/pdf/2204.04913.pdf)
 37. PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision [[code]](https://github.com/Garfield-kh/PoseTriplet)
+38. Generalizable Human Pose Triangulation [[code]](https://github.com/kristijanbartol/general-3d-humans)
 
 # methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
