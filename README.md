@@ -139,6 +139,7 @@ Collecting papers about human motion capture
 4. EM-POSE: 3D Human Pose Estimation from Sparse Electromagnetic Trackers [[code]](https://github.com/facebookresearch/em-pose)
 5. HybridCap: Inertia-aid Monocular Capture of Challenging Human Motions [[pdf]](https://arxiv.org/pdf/2203.09287v1.pdf)
 6. Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs [[pdf]](https://arxiv.org/pdf/2203.15720v1.pdf)
+7. DeMoCap: Low-cost Marker-based Motion Capture [[code]](https://github.com/tofis/democap)
 
 
 # human motion capture in 3d scene
