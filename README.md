@@ -113,7 +113,7 @@ Collecting papers about human motion capture
 63. Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video [[project]](https://mps-net.github.io/MPS-Net/)
 64. Occluded Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2203.13349.pdf)
 65. Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation [[code]](https://github.com/syguan96/DynaBOA)
-66. 
+66. Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation [[code]](https://github.com/mks0601/Hand4Whole_RELEASE)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
