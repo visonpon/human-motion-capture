@@ -134,6 +134,7 @@ Collecting papers about human motion capture
 16. Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization [[code]](https://github.com/YxZhxn/Ray3D)
 17. PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation [[code]](https://github.com/noboevbo/PedRec)
 18. Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation [[code]](https://github.com/Vegetebird/StridedTransformer-Pose3D)
+19. PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision [[code]](https://github.com/Garfield-kh/PoseTriplet)
 
 
 # simplify optical or inertial based motion capture
