@@ -114,6 +114,7 @@ Collecting papers about human motion capture
 64. Occluded Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2203.13349.pdf)
 65. Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation [[code]](https://github.com/syguan96/DynaBOA)
 66. Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation [[code]](https://github.com/mks0601/Hand4Whole_RELEASE)
+67. CHOMP: Occluded Human Body Capture with Self-Supervised Spatial-Temporal Motion Prior [[code]](https://github.com/boycehbz/CHOMP)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
