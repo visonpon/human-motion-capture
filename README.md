@@ -137,6 +137,7 @@ Collecting papers about human motion capture
 17. PedRecNet: Multi-task deep neural network for full 3D human pose and orientation estimation [[code]](https://github.com/noboevbo/PedRec)
 18. Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation [[code]](https://github.com/Vegetebird/StridedTransformer-Pose3D)
 19. PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision [[code]](https://github.com/Garfield-kh/PoseTriplet)
+20. A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion [[pdf]](https://arxiv.org/pdf/2207.07381v1.pdf)
 
 
 # simplify optical or inertial based motion capture
