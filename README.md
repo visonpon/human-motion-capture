@@ -140,6 +140,7 @@ Collecting papers about human motion capture
 20. A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion [[pdf]](https://arxiv.org/pdf/2207.07381v1.pdf)
 21. DeciWatch: A Simple Baseline for 10× Efficient 2D and 3D Pose Estimation  [[project]](https://ailingzeng.site/deciwatch)
 22. VirtualPose: Learning Generalizable 3D Human Pose Models from Virtual Data [[code]](https://github.com/wkom/VirtualPose)
+23. Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection [[pdf]](https://arxiv.org/pdf/2207.10955.pdf)
 
 
 # simplify optical or inertial based motion capture
