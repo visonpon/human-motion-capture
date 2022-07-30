@@ -153,6 +153,7 @@ Collecting papers about human motion capture
 6. Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs [[pdf]](https://arxiv.org/pdf/2203.15720v1.pdf)
 7. DeMoCap: Low-cost Marker-based Motion Capture [[code]](https://github.com/tofis/democap)
 8. LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors [[pdf]](https://arxiv.org/pdf/2205.15410v1.pdf)
+9. AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing  [[code]](https://github.com/eth-siplab/AvatarPoser)
 
 
 # human motion capture in 3d scene
