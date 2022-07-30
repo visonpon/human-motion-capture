@@ -170,3 +170,4 @@ Collecting papers about human motion capture
 11. Visually plausible human-object interaction capture from wearable sensors [[project]](http://virtualhumans.mpi-inf.mpg.de/hops/)
 12. HULC: 3D HUman Motion Capture with Pose Manifold Sampling and Dense Contact Guidance [[project]](https://vcai.mpi-inf.mpg.de/projects/HULC/)
 13. Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis [[pdf]](https://arxiv.org/pdf/2205.13001.pdf)
+14. The One Where They Reconstructed 3D Humans and Environments in TV Shows [[project]](http://ethanweber.me/sitcoms3D/)
