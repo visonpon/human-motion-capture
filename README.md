@@ -118,6 +118,7 @@ Collecting papers about human motion capture
 68. PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images [[project]](https://hongwenzhang.github.io/pymaf-x/)
 69. Benchmarking 3D Pose and Shape Estimation Beyond Algorithms [[code]](https://github.com/smplbody/hmr-benchmarks)
 70. Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[code]](https://github.com/postech-ami/fastmetro)
+71. CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation [[code]](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
