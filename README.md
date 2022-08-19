@@ -117,6 +117,7 @@ Collecting papers about human motion capture
 67. CHOMP: Occluded Human Body Capture with Self-Supervised Spatial-Temporal Motion Prior [[code]](https://github.com/boycehbz/CHOMP)
 68. PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images [[project]](https://hongwenzhang.github.io/pymaf-x/)
 69. Benchmarking 3D Pose and Shape Estimation Beyond Algorithms [[code]](https://github.com/smplbody/hmr-benchmarks)
+70. Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[code]](https://github.com/postech-ami/fastmetro)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
