@@ -158,6 +158,7 @@ Collecting papers about human motion capture
 7. DeMoCap: Low-cost Marker-based Motion Capture [[code]](https://github.com/tofis/democap)
 8. LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors [[pdf]](https://arxiv.org/pdf/2205.15410v1.pdf)
 9. AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing  [[code]](https://github.com/eth-siplab/AvatarPoser)
+10. HybridTrak: Adding Full-Body Tracking to VR Using an Off-the-Shelf Webcam [[https://www.youtube.com/watch?v=5pC-AKYB8K4&t=0s]]
 
 
 # human motion capture in 3d scene
