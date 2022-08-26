@@ -159,6 +159,7 @@ Collecting papers about human motion capture
 8. LiDAR-aid Inertial Poser: Large-scale Human Motion Capture by Sparse Inertial and LiDAR Sensors [[pdf]](https://arxiv.org/pdf/2205.15410v1.pdf)
 9. AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing  [[code]](https://github.com/eth-siplab/AvatarPoser)
 10. HybridTrak: Adding Full-Body Tracking to VR Using an Off-the-Shelf Webcam [[video]](https://www.youtube.com/watch?v=5pC-AKYB8K4&t=0s)
+11. FusePose: IMU-Vision Sensor Fusion in Kinematic Space for Parametric Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2208.11960.pdf)
 
 
 # human motion capture in 3d scene
