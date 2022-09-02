@@ -120,6 +120,7 @@ Collecting papers about human motion capture
 70. Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[code]](https://github.com/postech-ami/fastmetro)
 71. CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation [[code]](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)
 72. Learning Visibility for Robust Dense Human Body Estimation [[code]](https://github.com/chhankyao/visdb)
+73. XRMocap - multi-view motion capture [[code]](https://github.com/openxrlab/xrmocap)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
