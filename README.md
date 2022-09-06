@@ -180,3 +180,4 @@ Collecting papers about human motion capture
 13. Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis [[pdf]](https://arxiv.org/pdf/2205.13001.pdf)
 14. MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes [[project]](https://4dqv.mpi-inf.mpg.de/MoCapDeform/)
 14. The One Where They Reconstructed 3D Humans and Environments in TV Shows [[project]](http://ethanweber.me/sitcoms3D/)
+15. Stochastic Scene-Aware Motion Prediction [[code]](https://github.com/mohamedhassanmus/SAMP)
