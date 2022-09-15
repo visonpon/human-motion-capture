@@ -147,6 +147,7 @@ Collecting papers about human motion capture
 22. VirtualPose: Learning Generalizable 3D Human Pose Models from Virtual Data [[code]](https://github.com/wkom/VirtualPose)
 23. Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection [[pdf]](https://arxiv.org/pdf/2207.10955.pdf)
 24. KinePose: A temporally optimized inverse kinematics technique for 6DOF human pose estimation with biomechanical constraint [[code]](https://github.com/KevGildea/KinePose)
+25. A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion [[code]](https://github.com/HKBU-VSComputing/2022_MM_DMAE-Mocap)
 
 
 # simplify optical or inertial based motion capture
