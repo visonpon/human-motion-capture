@@ -163,6 +163,7 @@ Collecting papers about human motion capture
 10. HybridTrak: Adding Full-Body Tracking to VR Using an Off-the-Shelf Webcam [[video]](https://www.youtube.com/watch?v=5pC-AKYB8K4&t=0s)
 11. FusePose: IMU-Vision Sensor Fusion in Kinematic Space for Parametric Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2208.11960.pdf)
 12. Fusion Poser: 3D Human Pose Estimation using Sparse IMUs and Head Tracker in real-time [[code]](https://github.com/LuzyCat/FusionPoser)
+13. QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars [[pdf]](https://arxiv.org/pdf/2209.09391.pdf)
 
 
 # human motion capture in 3d scene
