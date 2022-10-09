@@ -164,6 +164,7 @@ Collecting papers about human motion capture
 11. FusePose: IMU-Vision Sensor Fusion in Kinematic Space for Parametric Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2208.11960.pdf)
 12. Fusion Poser: 3D Human Pose Estimation using Sparse IMUs and Head Tracker in real-time [[code]](https://github.com/LuzyCat/FusionPoser)
 13. QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars [[pdf]](https://arxiv.org/pdf/2209.09391.pdf)
+14. TIP: Real-time Human Motion Reconstruction from Sparse IMUs with Simultaneous Terrain Generation [[pdf]](https://arxiv.org/pdf/2203.15720.pdf)
 
 
 # human motion capture in 3d scene
