@@ -167,6 +167,7 @@ Collecting papers about human motion capture
 14. TIP: Real-time Human Motion Reconstruction from Sparse IMUs with Simultaneous Terrain Generation [[pdf]](https://arxiv.org/pdf/2203.15720.pdf)
 15. FLAG: Flow-based 3D Avatar Generation from Sparse Observations [[project]](https://microsoft.github.io/flag/)
 16. Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices [[project]](https://upc-virvig.github.io/MMVR/)
+17. Faster Deep Inertial Pose Estimation with Six Inertial Sensors [[pdf]](file:///E:/FTP/duanpan/sensors-22-07144.pdf)
 
 
 # human motion capture in 3d scene
