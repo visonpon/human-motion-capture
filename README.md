@@ -168,6 +168,8 @@ Collecting papers about human motion capture
 15. FLAG: Flow-based 3D Avatar Generation from Sparse Observations [[project]](https://microsoft.github.io/flag/)
 16. Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices [[project]](https://upc-virvig.github.io/MMVR/)
 17. Faster Deep Inertial Pose Estimation with Six Inertial Sensors [[code]](https://drive.google.com/file/d/1a_Uo2tWE2M6i_Hk5u3_a0K8VYvASbWOe/view)
+18. Neural3Points: Learning to Generate Physically Realistic Full-body Motion for Virtual Reality Users [[pdf]](https://diglib.eg.org/bitstream/handle/10.1111/cgf14634/v41i8pp183-194.pdf)
+
 
 
 # human motion capture in 3d scene
