@@ -192,3 +192,4 @@ Collecting papers about human motion capture
 16. COINS : Compositional Human-Scene Interaction Synthesis with Semantic Control [[projects]](https://zkf1997.github.io/COINS/index.html)
 17. Placing Human Animations into 3D Scenes by Learning Interaction- and Geometry-Driven Keyframes [[[project]](https://gamma.umd.edu/researchdirections/animation-placement/paak/)
 18. InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction [[project]](https://intercap.is.tue.mpg.de/)
+19. UMANISE: Language-conditioned Human Motion Generation in 3D Scenes [[project]](https://silvester.wang/HUMANISE/)
