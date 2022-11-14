@@ -122,6 +122,7 @@ Collecting papers about human motion capture
 71. CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation [[code]](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)
 72. Learning Visibility for Robust Dense Human Body Estimation [[code]](https://github.com/chhankyao/visdb)
 73. XRMocap - multi-view motion capture [[code]](https://github.com/openxrlab/xrmocap)
+74. CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation [[code]](https://github.com/haofanwang/CLIFF)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
