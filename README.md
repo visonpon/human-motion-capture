@@ -45,6 +45,7 @@ Collecting papers about human motion capture
 40. VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation [[pdf]](https://arxiv.org/pdf/2205.12602.pdf)
 41. Trajectory Optimization for Physics-Based Reconstruction of 3d Human Pose from Monocular Video [[pdf]](https://arxiv.org/pdf/2205.12292.pdf)
 42. Learning Variational Motion Prior for Video-based Motion Capture [[pdf]](https://arxiv.org/pdf/2210.15134.pdf)
+43. Accurate and Efficient Absolute 3D Human Pose Estimation Trained on Dozens of Datasets [[project]](https://istvansarandi.com/eccv22_demo/)
 
 # methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
