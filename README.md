@@ -47,6 +47,7 @@ Collecting papers about human motion capture
 42. Learning Variational Motion Prior for Video-based Motion Capture [[pdf]](https://arxiv.org/pdf/2210.15134.pdf)
 43. Accurate and Efficient Absolute 3D Human Pose Estimation Trained on Dozens of Datasets [[project]](https://istvansarandi.com/eccv22_demo/)
 44. GFPose: Learning 3D Human Pose Prior with Gradient Fields [[[project]](https://sites.google.com/view/gfpose/)
+45. DiffPose: Toward More Reliable 3D Pose Estimation  [[pdf]](https://arxiv.org/pdf/2211.16940.pdf)
 
 # methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
