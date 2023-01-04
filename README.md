@@ -128,6 +128,7 @@ Collecting papers about human motion capture
 74. CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation [[code]](https://github.com/haofanwang/CLIFF)
 75. PLIKS: A Pseudo-Linear Inverse Kinematic Solver for 3D Human Body Estimation [[pdf]](https://arxiv.org/pdf/2211.11734.pdf)
 76. FuRPE: Learning Full-body Reconstruction from Part Experts [[code]](https://github.com/indigo-99/furpe)
+77. NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action [[project]](https://sites.google.com/view/nemo-neural-motion-field)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
