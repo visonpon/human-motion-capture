@@ -50,6 +50,7 @@ Collecting papers about human motion capture
 45. DiffPose: Toward More Reliable 3D Pose Estimation  [[pdf]](https://arxiv.org/pdf/2211.16940.pdf)
 46. Learning 3D Human Pose Estimation From Dozens of Datasets Using a Geometry-Aware Autoencoder To Bridge Between Skeleton Formats [[project]](https://istvansarandi.com/dozens/)
 47. Scene-Aware 3D Multi-Human Motion Capture from a Single Camera [[project]](https://people.mpi-inf.mpg.de/~dluvizon/scene-aware-3d-multi-human/)
+48. HDFormer: High-order Directed Transformer for 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2302.01825.pdf)
 
 # methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
