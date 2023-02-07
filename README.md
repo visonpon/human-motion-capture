@@ -50,7 +50,7 @@ Collecting papers about human motion capture
 45. DiffPose: Toward More Reliable 3D Pose Estimation  [[pdf]](https://arxiv.org/pdf/2211.16940.pdf)
 46. Learning 3D Human Pose Estimation From Dozens of Datasets Using a Geometry-Aware Autoencoder To Bridge Between Skeleton Formats [[project]](https://istvansarandi.com/dozens/)
 47. Scene-Aware 3D Multi-Human Motion Capture from a Single Camera [[project]](https://people.mpi-inf.mpg.de/~dluvizon/scene-aware-3d-multi-human/)
-48. HDFormer: High-order Directed Transformer for 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2302.01825.pdf)
+
 
 # methods based on body model such as smpl/smpl-x
 `Note that there are some papers that I don't list here most because I have tested it and the result is not so good(e,g. frankmocap,VIBE and so on) `
@@ -132,6 +132,7 @@ Collecting papers about human motion capture
 75. PLIKS: A Pseudo-Linear Inverse Kinematic Solver for 3D Human Body Estimation [[pdf]](https://arxiv.org/pdf/2211.11734.pdf)
 76. FuRPE: Learning Full-body Reconstruction from Part Experts [[code]](https://github.com/indigo-99/furpe)
 77. NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action [[project]](https://sites.google.com/view/nemo-neural-motion-field)
+78. IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation [[project]](https://juzezhang.github.io/IKOL-webpage/)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
@@ -159,6 +160,7 @@ Collecting papers about human motion capture
 23. Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection [[pdf]](https://arxiv.org/pdf/2207.10955.pdf)
 24. KinePose: A temporally optimized inverse kinematics technique for 6DOF human pose estimation with biomechanical constraint [[code]](https://github.com/KevGildea/KinePose)
 25. A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion [[code]](https://github.com/HKBU-VSComputing/2022_MM_DMAE-Mocap)
+26. HDFormer: High-order Directed Transformer for 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2302.01825.pdf)
 
 
 # simplify optical or inertial based motion capture
