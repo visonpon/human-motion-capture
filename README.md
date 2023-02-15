@@ -133,6 +133,7 @@ Collecting papers about human motion capture
 76. FuRPE: Learning Full-body Reconstruction from Part Experts [[code]](https://github.com/indigo-99/furpe)
 77. NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action [[project]](https://sites.google.com/view/nemo-neural-motion-field)
 78. IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation [[project]](https://juzezhang.github.io/IKOL-webpage/)
+79.  Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[project]](https://github.com/postech-ami/FastMETRO)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
