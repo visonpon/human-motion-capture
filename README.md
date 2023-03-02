@@ -136,6 +136,7 @@ Collecting papers about human motion capture
 78. IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation [[project]](https://juzezhang.github.io/IKOL-webpage/)
 79.  Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers [[project]](https://github.com/postech-ami/FastMETRO)
 80. Decoupling Human and Camera Motion from Videos in the Wild  [[project]](https://vye16.github.io/slahmr/)
+81. Capturing the motion of every joint: 3D human pose and shape estimation with independent tokens [[code]](https://github.com/yangsenius/INT_HMR_Model)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
