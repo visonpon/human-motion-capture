@@ -166,6 +166,7 @@ Collecting papers about human motion capture
 25. A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion [[code]](https://github.com/HKBU-VSComputing/2022_MM_DMAE-Mocap)
 26. HDFormer: High-order Directed Transformer for 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2302.01825.pdf)
 27. HTNet: Human Topology Aware Network for 3D Human Pose Estimation [[project]](https://github.com/vefalun/HTNet)
+28. Proactive Multi-Camera Collaboration for 3D Human Pose Estimation [[project]](https://sites.google.com/view/active3dpose)
 
 
 # simplify optical or inertial based motion capture
