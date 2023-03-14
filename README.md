@@ -138,6 +138,7 @@ Collecting papers about human motion capture
 80. Decoupling Human and Camera Motion from Videos in the Wild  [[project]](https://vye16.github.io/slahmr/)
 81. Capturing the motion of every joint: 3D human pose and shape estimation with independent tokens [[project]](https://yangsenius.github.io/INT_HMR_Model/index.html)
 82. PoseExaminer: Automated Testing of Out-of-Distribution Robustness in Human Pose and Shape Estimation [[code]](https://github.com/qihao067/PoseExaminer)
+83. GATOR: Graph-Aware Transformer with Offset-Disentangled Regression for Human Mesh Reconstruction from a 2D Pose [[project]](https://github.com/kasvii/gator)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
