@@ -171,6 +171,7 @@ Collecting papers about human motion capture
 27. HTNet: Human Topology Aware Network for 3D Human Pose Estimation [[project]](https://github.com/vefalun/HTNet)
 28. Proactive Multi-Camera Collaboration for 3D Human Pose Estimation [[project]](https://sites.google.com/view/active3dpose)
 29. GFPose: Learning 3D Human Pose Prior with Gradient Fields [[project]](https://sites.google.com/view/gfpose/home)
+30. Diffusion-Based 3D Human Pose Estimation with Multi-Hypothesis Aggregation [[code]](https://github.com/paTRICK-swk/D3DP)
 
 
 # simplify optical or inertial based motion capture
