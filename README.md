@@ -141,6 +141,7 @@ Collecting papers about human motion capture
 83. GATOR: Graph-Aware Transformer with Offset-Disentangled Regression for Human Mesh Reconstruction from a 2D Pose [[project]](https://github.com/kasvii/gator)
 84. BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation [[pdf]](https://arxiv.org/pdf/2303.11675.pdf)
 85.  Contact, Human and Object REconstruction from a single RGB image [[code]](https://github.com/xiexh20/CHORE)
+86. One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer [[project]](https://osx-ubody.github.io/)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
