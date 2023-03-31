@@ -175,6 +175,7 @@ Collecting papers about human motion capture
 29. GFPose: Learning 3D Human Pose Prior with Gradient Fields [[project]](https://sites.google.com/view/gfpose/home)
 30. Diffusion-Based 3D Human Pose Estimation with Multi-Hypothesis Aggregation [[code]](https://github.com/paTRICK-swk/D3DP)
 31. Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2303.16456.pdf)
+32. PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation [[project]](https://qitaozhao.github.io/PoseFormerV2)
 
 
 # simplify optical or inertial based motion capture
