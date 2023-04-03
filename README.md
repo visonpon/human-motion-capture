@@ -51,6 +51,7 @@ Collecting papers about human motion capture
 46. Learning 3D Human Pose Estimation From Dozens of Datasets Using a Geometry-Aware Autoencoder To Bridge Between Skeleton Formats [[project]](https://istvansarandi.com/dozens/)
 47. Scene-Aware 3D Multi-Human Motion Capture from a Single Camera [[project]](https://people.mpi-inf.mpg.de/~dluvizon/scene-aware-3d-multi-human/)
 48. Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition [[project]](https://moygcc.github.io/vid2avatar/)
+49. 3D Human Pose Estimation via Intuitive Physics [[project]](https://ipman.is.tue.mpg.de/)
 
 
 # methods based on body model such as smpl/smpl-x
