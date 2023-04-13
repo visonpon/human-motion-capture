@@ -143,6 +143,8 @@ Collecting papers about human motion capture
 84. BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation [[pdf]](https://arxiv.org/pdf/2303.11675.pdf)
 85.  Contact, Human and Object REconstruction from a single RGB image [[code]](https://github.com/xiexh20/CHORE)
 86. One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer [[project]](https://osx-ubody.github.io/)
+87. EgoHMR: Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views [[project]](https://sanweiliti.github.io/egohmr/egohmr.html)
+88. HybrIK-X: Hybrid Analytical-Neural Inverse Kinematics for Whole-body Mesh Recovery [[project]](https://jeffli.site/HybrIK-X/)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
