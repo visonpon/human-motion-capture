@@ -146,6 +146,7 @@ Collecting papers about human motion capture
 87. EgoHMR: Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views [[project]](https://sanweiliti.github.io/egohmr/egohmr.html)
 88. HybrIK-X: Hybrid Analytical-Neural Inverse Kinematics for Whole-body Mesh Recovery [[project]](https://jeffli.site/HybrIK-X/)
 89. Learning Analytical Posterior Probability for Human Mesh Recovery [[project]](https://netease-gameai.github.io/ProPose/)
+90. Sampling is Matter: Point-guided 3D Human Mesh Reconstruction [[code]](https://github.com/DCVL-3D/PointHMR_release)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
