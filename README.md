@@ -232,3 +232,4 @@ Collecting papers about human motion capture
 18. InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction [[project]](https://intercap.is.tue.mpg.de/)
 19. HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes [[project]](https://silvester.wang/HUMANISE/)
 20. SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments [[code]](https://github.com/climbingdaily/SLOPER4D)
+21. EgoLocate:Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors [[project]](https://xinyu-yi.github.io/EgoLocate/)
