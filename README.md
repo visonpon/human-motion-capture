@@ -233,3 +233,4 @@ Collecting papers about human motion capture
 19. HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes [[project]](https://silvester.wang/HUMANISE/)
 20. SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments [[code]](https://github.com/climbingdaily/SLOPER4D)
 21. EgoLocate:Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors [[project]](https://xinyu-yi.github.io/EgoLocate/)
+22. Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis [[project]](https://andrewsonga.github.io/totalrecon/)
