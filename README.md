@@ -151,6 +151,7 @@ Collecting papers about human motion capture
 89. Learning Analytical Posterior Probability for Human Mesh Recovery [[project]](https://netease-gameai.github.io/ProPose/)
 90. Sampling is Matter: Point-guided 3D Human Mesh Reconstruction [[code]](https://github.com/DCVL-3D/PointHMR_release)
 91. SHOW: Synchronous HOlistic body in the Wild [[code]](https://github.com/yhw-yhw/SHOW)
+92. HuManiFlow: Ancestor-Conditioned Normalising Flows on SO(3) Manifolds for Human Pose and Shape Distribution Estimation [[code]](https://github.com/akashsengupta1997/HuManiFlow)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
