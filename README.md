@@ -152,6 +152,7 @@ Collecting papers about human motion capture
 90. Sampling is Matter: Point-guided 3D Human Mesh Reconstruction [[code]](https://github.com/DCVL-3D/PointHMR_release)
 91. SHOW: Synchronous HOlistic body in the Wild [[code]](https://github.com/yhw-yhw/SHOW)
 92. HuManiFlow: Ancestor-Conditioned Normalising Flows on SO(3) Manifolds for Human Pose and Shape Distribution Estimation [[code]](https://github.com/akashsengupta1997/HuManiFlow)
+93. NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D Human Pose and Shape Estimation [[code]](https://github.com/Jeff-sjtu/NIKI)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
@@ -187,6 +188,7 @@ Collecting papers about human motion capture
 31. Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2303.16456.pdf)
 32. PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation [[project]](https://qitaozhao.github.io/PoseFormerV2)
 33. PoseRAC: Pose Saliency Transformer for Repetitive Action Counting [[code]](https://github.com/MiracleDance/PoseRAC)
+34. CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2203.13387.pdf)
 
 
 # simplify optical or inertial based motion capture
