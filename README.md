@@ -153,6 +153,7 @@ Collecting papers about human motion capture
 91. SHOW: Synchronous HOlistic body in the Wild [[code]](https://github.com/yhw-yhw/SHOW)
 92. HuManiFlow: Ancestor-Conditioned Normalising Flows on SO(3) Manifolds for Human Pose and Shape Distribution Estimation [[code]](https://github.com/akashsengupta1997/HuManiFlow)
 93. NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D Human Pose and Shape Estimation [[code]](https://github.com/Jeff-sjtu/NIKI)
+94. XFormer: Fast and Accurate Monocular 3D Body Capture [[pdf]](https://arxiv.org/pdf/2305.11101.pdf)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
