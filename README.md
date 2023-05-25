@@ -155,6 +155,7 @@ Collecting papers about human motion capture
 93. NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D Human Pose and Shape Estimation [[code]](https://github.com/Jeff-sjtu/NIKI)
 94. XFormer: Fast and Accurate Monocular 3D Body Capture [[pdf]](https://arxiv.org/pdf/2305.11101.pdf)
 95. IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation [[code]](https://github.com/Juzezhang/IKOL)
+96. Learning Analytical Posterior Probability for Human Mesh Recovery [[code]](https://github.com/NetEase-GameAI/ProPose)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
