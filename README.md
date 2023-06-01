@@ -156,6 +156,7 @@ Collecting papers about human motion capture
 94. XFormer: Fast and Accurate Monocular 3D Body Capture [[pdf]](https://arxiv.org/pdf/2305.11101.pdf)
 95. IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation [[code]](https://github.com/Juzezhang/IKOL)
 96. Learning Analytical Posterior Probability for Human Mesh Recovery [[code]](https://github.com/NetEase-GameAI/ProPose)
+97. Humans in 4D: Reconstructing and Tracking Humans with Transformers [[code]](https://github.com/shubham-goel/4D-Humans)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
