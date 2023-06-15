@@ -243,3 +243,5 @@ Collecting papers about human motion capture
 21. EgoLocate:Real-time Motion Capture, Localization, and Mapping with Sparse Body-mounted Sensors [[project]](https://xinyu-yi.github.io/EgoLocate/)
 22. Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis [[project]](https://andrewsonga.github.io/totalrecon/)
 23. Learning Human Mesh Recovery in 3D Scenes [[project]](https://zju3dv.github.io/sahmr/)
+24. MIME: Human-Aware 3D Scene Generation [[project]](https://mime.is.tue.mpg.de/)
+25. TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments [[project]](https://www.yusun.work/TRACE/TRACE.html)
