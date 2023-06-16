@@ -157,6 +157,7 @@ Collecting papers about human motion capture
 95. IKOL: Inverse kinematics optimization layer for 3D human pose and shape estimation via Gauss-Newton differentiation [[code]](https://github.com/Juzezhang/IKOL)
 96. Learning Analytical Posterior Probability for Human Mesh Recovery [[code]](https://github.com/NetEase-GameAI/ProPose)
 97. Humans in 4D: Reconstructing and Tracking Humans with Transformers [[code]](https://github.com/shubham-goel/4D-Humans)
+98. NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D HPS [[code]](https://github.com/Jeff-sjtu/NIKI)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
