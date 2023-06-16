@@ -246,3 +246,4 @@ Collecting papers about human motion capture
 23. Learning Human Mesh Recovery in 3D Scenes [[project]](https://zju3dv.github.io/sahmr/)
 24. MIME: Human-Aware 3D Scene Generation [[project]](https://mime.is.tue.mpg.de/)
 25. TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments [[project]](https://www.yusun.work/TRACE/TRACE.html)
+26. CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions [[project]](http://www.lidarhumanmotion.net/cimi4d/)
