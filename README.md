@@ -29,7 +29,7 @@ Collecting papers about human motion capture
 ![image](https://github.com/visonpon/human-motion-capture/blob/main/images/Dynamical%20Human-Joint%20Affinity.png)
 25. Direct Multi-view Multi-person 3D Human Pose Estimation [[code]](https://github.com/sail-sg/mvp)
 ![image](https://github.com/visonpon/human-motion-capture/blob/main/images/MVP.png)
-27. Human Performance Capture from Monocular Video in the Wild [[pdf]](https://arxiv.org/pdf/2111.14672.pdf)
+27. Human Performance Capture from Monocular Video in the Wild [[pdf]](https://arxiv.org/pdf/2111.14672.pdf) | [[code]](https://github.com/MoyGcc/hpcwild)
 ![image](https://github.com/visonpon/human-motion-capture/blob/main/images/capture_in_the_wild.png)
 29. Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning[[pdf]](https://arxiv.org/pdf/2111.15056.pdf) | [[code]](https://github.com/hanbyel0105/CamDistHumanPose3D)
 ![image](https://github.com/visonpon/human-motion-capture/blob/main/images/CamDistHumanPose3D.png)
