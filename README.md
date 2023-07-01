@@ -55,6 +55,7 @@ Collecting papers about human motion capture
 47. Scene-Aware 3D Multi-Human Motion Capture from a Single Camera [[project]](https://people.mpi-inf.mpg.de/~dluvizon/scene-aware-3d-multi-human/)
 48. Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition [[project]](https://moygcc.github.io/vid2avatar/)
 49. 3D Human Pose Estimation via Intuitive Physics [[project]](https://ipman.is.tue.mpg.de/)
+50. GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction [[https://github.com/xymsh/GraMMaR]]
 
 
 # methods based on body model such as smpl/smpl-x
