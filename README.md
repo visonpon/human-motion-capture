@@ -159,6 +159,7 @@ Collecting papers about human motion capture
 96. Learning Analytical Posterior Probability for Human Mesh Recovery [[code]](https://github.com/NetEase-GameAI/ProPose)
 97. Humans in 4D: Reconstructing and Tracking Humans with Transformers [[code]](https://github.com/shubham-goel/4D-Humans)
 98. NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D HPS [[code]](https://github.com/Jeff-sjtu/NIKI)
+99. Implicit 3D Human Mesh Recovery using Consistency with Pose and Shape from Unseen-view [[pdf]](https://arxiv.org/pdf/2306.17651.pdf)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
