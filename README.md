@@ -56,6 +56,7 @@ Collecting papers about human motion capture
 48. Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition [[project]](https://moygcc.github.io/vid2avatar/)
 49. 3D Human Pose Estimation via Intuitive Physics [[project]](https://ipman.is.tue.mpg.de/)
 50. GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction [[project]](https://github.com/xymsh/GraMMaR)
+51. Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning [[project]](https://liuyebin.com/proxycap/)
 
 
 # methods based on body model such as smpl/smpl-x
