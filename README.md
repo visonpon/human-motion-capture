@@ -203,6 +203,7 @@ Collecting papers about human motion capture
 33. PoseRAC: Pose Saliency Transformer for Repetitive Action Counting [[code]](https://github.com/MiracleDance/PoseRAC)
 34. CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2203.13387.pdf)
 35. Motion-DVAE: Unsupervised learning for fast human motion denoising [[project]](https://g-fiche.github.io/research-pages/motiondvae/)
+36. Iterative Graph Filtering Network for 3D Human Pose Estimation [[code]](https://github.com/zaedulislam/gs-net)
 
 
 # simplify optical or inertial based motion capture
