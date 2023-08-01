@@ -165,6 +165,7 @@ Collecting papers about human motion capture
 100. BEDLAM: Bodies Exhibiting Detailed Lifelike Animated Motion [[project]](https://bedlam.is.tue.mpg.de/)
 101. MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling [[code]](https://github.com/vvirgooo2/MPM)
 102. Tracking People by Predicting 3D Appearance, Location & Pose [[code]](https://github.com/brjathu/PHALP)
+103. Learning 3D Human Shape and Pose from Dense Body Parts [[code]](https://hongwenzhang.github.io/DensePose2SMPL/)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
