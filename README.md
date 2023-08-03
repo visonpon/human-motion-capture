@@ -167,6 +167,7 @@ Collecting papers about human motion capture
 102. Tracking People by Predicting 3D Appearance, Location & Pose [[code]](https://github.com/brjathu/PHALP)
 103. Learning 3D Human Shape and Pose from Dense Body Parts [[code]](https://hongwenzhang.github.io/DensePose2SMPL/)
 104. Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction [[pdf]](https://arxiv.org/pdf/2308.00799.pdf)
+105. JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery  [[code]](https://github.com/xljh0520/jotr)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
