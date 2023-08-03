@@ -166,6 +166,7 @@ Collecting papers about human motion capture
 101. MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling [[code]](https://github.com/vvirgooo2/MPM)
 102. Tracking People by Predicting 3D Appearance, Location & Pose [[code]](https://github.com/brjathu/PHALP)
 103. Learning 3D Human Shape and Pose from Dense Body Parts [[code]](https://hongwenzhang.github.io/DensePose2SMPL/)
+104. Body Knowledge and Uncertainty Modeling for Monocular 3D Human Body Reconstruction [[pdf]](https://arxiv.org/pdf/2308.00799.pdf)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
