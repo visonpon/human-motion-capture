@@ -170,6 +170,7 @@ Collecting papers about human motion capture
 105. JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery  [[code]](https://github.com/xljh0520/jotr)
 106. Semantify:Simplifying the Control of 3D Morphable Models using CLIP [[code]](https://github.com/Omergral/Semantify)
 107. Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video [[project]](https://kasvii.github.io/PMCE/)
+108. D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation [[project]](https://3dnbf.github.io/)
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
