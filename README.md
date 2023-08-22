@@ -58,6 +58,8 @@ Collecting papers about human motion capture
 50. GraMMaR: Ground-aware Motion Model for 3D Human Motion Reconstruction [[project]](https://github.com/xymsh/GraMMaR)
 51. Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning [[project]](https://liuyebin.com/proxycap/)
 52. Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2307.03833.pdf)
+53. D&D: Learning Human Dynamics from Dynamic Camera [[code]](https://github.com/Jeff-sjtu/DnD)
+54. Physics-Guided Human Motion Capture with Pose Probability Modeling [[code]](https://github.com/Me-Ditto/Physics-Guided-Mocap)
 
 
 # methods based on body model such as smpl/smpl-x
