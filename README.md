@@ -175,6 +175,8 @@ Collecting papers about human motion capture
 106. Semantify:Simplifying the Control of 3D Morphable Models using CLIP [[code]](https://github.com/Omergral/Semantify)
 107. Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video [[project]](https://kasvii.github.io/PMCE/)
 108. D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation [[project]](https://3dnbf.github.io/)
+109. ReFit: Recurrent Fitting Network for 3D Human Recovery [[project]](https://yufu-wang.github.io/refit_humans/)
+
 
 # human 3d pose estimation
 1. Freemocap [[code]](https://github.com/jonmatthis/freemocap)
