@@ -177,6 +177,7 @@ Collecting papers about human motion capture
 108. D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation [[project]](https://3dnbf.github.io/)
 109. ReFit: Recurrent Fitting Network for 3D Human Recovery [[project]](https://yufu-wang.github.io/refit_humans/)
 110. Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction [[code]](https://github.com/hygenie1228/CycleAdapt_RELEASE)
+111. POCO: 3D Pose and Shape Estimation using Confidence [[project]](https://poco.is.tue.mpg.de/)
 
 
 # human 3d pose estimation
