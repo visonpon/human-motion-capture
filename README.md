@@ -178,6 +178,7 @@ Collecting papers about human motion capture
 109. ReFit: Recurrent Fitting Network for 3D Human Recovery [[project]](https://yufu-wang.github.io/refit_humans/)
 110. Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction [[code]](https://github.com/hygenie1228/CycleAdapt_RELEASE)
 111. POCO: 3D Pose and Shape Estimation using Confidence [[project]](https://poco.is.tue.mpg.de/)
+112. Distribution-Aligned Diffusion for Human Mesh Recovery [[project]](https://gongjia0208.github.io/HMDiff/)
 
 
 # human 3d pose estimation
