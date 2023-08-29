@@ -63,6 +63,7 @@ Collecting papers about human motion capture
 55. PoSynDA: Multi-Hypothesis Pose Synthesis Domain Adaptation for Robust 3D Human Pose Estimation [[code]](https://github.com/hbing-l/PoSynDA)
 56. PoseGraphNet++: Enriching 3D Human Pose with Orientation Estimation [[pdf]](https://arxiv.org/pdf/2308.11440.pdf)
 57. Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes [[project]](https://github.com/soullessrobot/Human-M3-Dataset)
+58. PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds [[project]](https://caizhongang.github.io/projects/PointHPS/)
 
 
 # methods based on body model such as smpl/smpl-x
