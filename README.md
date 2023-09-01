@@ -64,6 +64,7 @@ Collecting papers about human motion capture
 56. PoseGraphNet++: Enriching 3D Human Pose with Orientation Estimation [[pdf]](https://arxiv.org/pdf/2308.11440.pdf)
 57. Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes [[project]](https://github.com/soullessrobot/Human-M3-Dataset)
 58. PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds [[project]](https://caizhongang.github.io/projects/PointHPS/)
+59. EMDB:The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild [[project]](https://eth-ait.github.io/emdb/)
 
 
 # methods based on body model such as smpl/smpl-x
@@ -241,6 +242,7 @@ Collecting papers about human motion capture
 16. Combining Motion Matching and Orientation Prediction to Animate Avatars for Consumer-Grade VR Devices [[project]](https://upc-virvig.github.io/MMVR/)
 17. Faster Deep Inertial Pose Estimation with Six Inertial Sensors [[code]](https://drive.google.com/file/d/1a_Uo2tWE2M6i_Hk5u3_a0K8VYvASbWOe/view)
 18. Neural3Points: Learning to Generate Physically Realistic Full-body Motion for Virtual Reality Users [[pdf]](https://diglib.eg.org/bitstream/handle/10.1111/cgf14634/v41i8pp183-194.pdf)
+19. Diffusion Inertial Poser: Human Motion Reconstruction from Arbitrary Sparse IMU Configurati [[pdf]](https://arxiv.org/pdf/2308.16682.pdf)
 
 
 
@@ -273,3 +275,4 @@ Collecting papers about human motion capture
 25. TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments [[project]](https://www.yusun.work/TRACE/TRACE.html)
 26. CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions [[project]](http://www.lidarhumanmotion.net/cimi4d/)
 27. IMoS: Intent-Driven Full-Body Motion Synthesis for Human-Object Interactions [[code]](https://github.com/anindita127/IMoS)
+28. InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion [[project]](https://sirui-xu.github.io/InterDiff/)
