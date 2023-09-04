@@ -243,6 +243,7 @@ Collecting papers about human motion capture
 17. Faster Deep Inertial Pose Estimation with Six Inertial Sensors [[code]](https://drive.google.com/file/d/1a_Uo2tWE2M6i_Hk5u3_a0K8VYvASbWOe/view)
 18. Neural3Points: Learning to Generate Physically Realistic Full-body Motion for Virtual Reality Users [[pdf]](https://diglib.eg.org/bitstream/handle/10.1111/cgf14634/v41i8pp183-194.pdf)
 19. Diffusion Inertial Poser: Human Motion Reconstruction from Arbitrary Sparse IMU Configurati [[pdf]](https://arxiv.org/pdf/2308.16682.pdf)
+20. Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture [[project]](https://shaohua-pan.github.io/robustcap-page/)
 
 
 
