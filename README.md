@@ -66,6 +66,7 @@ Collecting papers about human motion capture
 58. PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds [[project]](https://caizhongang.github.io/projects/PointHPS/)
 59. EMDB:The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild [[project]](https://eth-ait.github.io/emdb/)
 60. Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation [[code]](https://github.com/hbing-l/RTPCA)
+61. STCFormer: 3D Human Pose Estimation with Spatio-Temporal Criss-cross Attention [[code]](https://github.com/zhenhuat/STCFormer)
 
 
 # methods based on body model such as smpl/smpl-x
