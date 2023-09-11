@@ -184,6 +184,7 @@ Collecting papers about human motion capture
 110. Cyclic Test-Time Adaptation on Monocular Video for 3D Human Mesh Reconstruction [[code]](https://github.com/hygenie1228/CycleAdapt_RELEASE)
 111. POCO: 3D Pose and Shape Estimation using Confidence [[project]](https://poco.is.tue.mpg.de/)
 112. Distribution-Aligned Diffusion for Human Mesh Recovery [[project]](https://gongjia0208.github.io/HMDiff/)
+113. Learning Analytical Posterior Probability for Human Mesh Recovery [[code]](https://github.com/NetEase-GameAI/ProPose)
 
 
 # human 3d pose estimation
