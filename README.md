@@ -67,6 +67,7 @@ Collecting papers about human motion capture
 59. EMDB:The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild [[project]](https://eth-ait.github.io/emdb/)
 60. Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation [[code]](https://github.com/hbing-l/RTPCA)
 61. STCFormer: 3D Human Pose Estimation with Spatio-Temporal Criss-cross Attention [[code]](https://github.com/zhenhuat/STCFormer)
+62. FreeMan: Towards benchmarking 3D HPE in the wild [[project]](https://wangjiongw.github.io/freeman/)
 
 
 # methods based on body model such as smpl/smpl-x
