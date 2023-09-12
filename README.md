@@ -68,6 +68,7 @@ Collecting papers about human motion capture
 60. Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation [[code]](https://github.com/hbing-l/RTPCA)
 61. STCFormer: 3D Human Pose Estimation with Spatio-Temporal Criss-cross Attention [[code]](https://github.com/zhenhuat/STCFormer)
 62. FreeMan: Towards benchmarking 3D HPE in the wild [[project]](https://wangjiongw.github.io/freeman/)
+63. Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2309.04756.pdf)
 
 
 # methods based on body model such as smpl/smpl-x
