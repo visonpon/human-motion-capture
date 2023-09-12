@@ -187,6 +187,7 @@ Collecting papers about human motion capture
 111. POCO: 3D Pose and Shape Estimation using Confidence [[project]](https://poco.is.tue.mpg.de/)
 112. Distribution-Aligned Diffusion for Human Mesh Recovery [[project]](https://gongjia0208.github.io/HMDiff/)
 113. Learning Analytical Posterior Probability for Human Mesh Recovery [[code]](https://github.com/NetEase-GameAI/ProPose)
+114. 3D Human Mesh Estimation from Virtual Markers  [[code]](https://github.com/ShirleyMaxx/VirtualMarker)
 
 
 # human 3d pose estimation
