@@ -69,6 +69,7 @@ Collecting papers about human motion capture
 61. STCFormer: 3D Human Pose Estimation with Spatio-Temporal Criss-cross Attention [[code]](https://github.com/zhenhuat/STCFormer)
 62. FreeMan: Towards benchmarking 3D HPE in the wild [[project]](https://wangjiongw.github.io/freeman/)
 63. Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2309.04756.pdf)
+64. TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting [[project]](https://rccchoudhury.github.io/tempo2023/)
 
 
 # methods based on body model such as smpl/smpl-x
