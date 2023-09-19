@@ -72,6 +72,7 @@ Collecting papers about human motion capture
 64. TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting [[project]](https://rccchoudhury.github.io/tempo2023/)
 65. Towards Robust and Smooth 3D Multi-Person Pose Estimationfrom Monocular Videos in the Wild [[pdf]](https://arxiv.org/pdf/2309.08644.pdf)
 66. MOVIN: Real-time Motion Capture using a Single LiDAR [[project]](https://movin3d.github.io/movin_pg2023/)
+67. Sparse and Privacy-enhanced Representation for Human Pose Estimation [[project]](https://lyhsieh.github.io/sphp/)
 
 
 # methods based on body model such as smpl/smpl-x
