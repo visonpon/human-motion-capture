@@ -70,6 +70,8 @@ Collecting papers about human motion capture
 62. FreeMan: Towards benchmarking 3D HPE in the wild [[project]](https://wangjiongw.github.io/freeman/)
 63. Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2309.04756.pdf)
 64. TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting [[project]](https://rccchoudhury.github.io/tempo2023/)
+65. Towards Robust and Smooth 3D Multi-Person Pose Estimationfrom Monocular Videos in the Wild [[pdf]](https://arxiv.org/pdf/2309.08644.pdf)
+66. MOVIN: Real-time Motion Capture using a Single LiDAR [[project]](https://movin3d.github.io/movin_pg2023/)
 
 
 # methods based on body model such as smpl/smpl-x
