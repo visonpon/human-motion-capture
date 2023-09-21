@@ -254,6 +254,7 @@ Collecting papers about human motion capture
 18. Neural3Points: Learning to Generate Physically Realistic Full-body Motion for Virtual Reality Users [[pdf]](https://diglib.eg.org/bitstream/handle/10.1111/cgf14634/v41i8pp183-194.pdf)
 19. Diffusion Inertial Poser: Human Motion Reconstruction from Arbitrary Sparse IMU Configurati [[pdf]](https://arxiv.org/pdf/2308.16682.pdf)
 20. Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture [[project]](https://shaohua-pan.github.io/robustcap-page/)
+21. Realistic Full-Body Tracking from Sparse Observations via Joint-Level Modeling [[project]](https://zxz267.github.io/AvatarJLM/)
 
 
 
