@@ -192,6 +192,7 @@ Collecting papers about human motion capture
 112. Distribution-Aligned Diffusion for Human Mesh Recovery [[project]](https://gongjia0208.github.io/HMDiff/)
 113. Learning Analytical Posterior Probability for Human Mesh Recovery [[code]](https://github.com/NetEase-GameAI/ProPose)
 114. 3D Human Mesh Estimation from Virtual Markers  [[code]](https://github.com/ShirleyMaxx/VirtualMarker)
+115.  SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation  [[project]](https://caizhongang.github.io/projects/SMPLer-X/)
 
 
 # human 3d pose estimation
