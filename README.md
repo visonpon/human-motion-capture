@@ -260,6 +260,7 @@ Collecting papers about human motion capture
 20. Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture [[project]](https://shaohua-pan.github.io/robustcap-page/)
 21. Realistic Full-Body Tracking from Sparse Observations via Joint-Level Modeling [[project]](https://zxz267.github.io/AvatarJLM/)
 22. EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes [[pdf]](https://arxiv.org/pdf/2308.06493.pdf)
+23. Noise-in, Bias-out: Balanced and Real-time MoCap Solving [[project]](https://moverseai.github.io/noise-tail/)
 
 
 
