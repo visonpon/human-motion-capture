@@ -194,6 +194,7 @@ Collecting papers about human motion capture
 114. 3D Human Mesh Estimation from Virtual Markers  [[code]](https://github.com/ShirleyMaxx/VirtualMarker)
 115.  SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation  [[project]](https://caizhongang.github.io/projects/SMPLer-X/)
 116.  Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video [[project]](https://kasvii.github.io/PMCE/)
+117.  PhaseMP: Robust 3D Pose Estimation via Phase-conditioned Human Motion Prior [[project]](https://rubbly.cn/publications/phaseMP/)
 
 
 # human 3d pose estimation
