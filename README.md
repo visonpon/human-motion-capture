@@ -237,6 +237,7 @@ Collecting papers about human motion capture
 36. Iterative Graph Filtering Network for 3D Human Pose Estimation [[code]](https://github.com/zaedulislam/gs-net)
 37. UNSUPERVISED RECONSTRUCTION OF 3D HUMAN POSE INTERACTIONS FROM 2D POSES ALONE [[pdf]](https://arxiv.org/pdf/2309.14865.pdf)
 38. Refined Temporal PyramidRefined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation [[code]](https://github.com/hbing-l/RTPCA)
+39. MotionAGFormer: Enhancing 3D Pose Estimation with a Transformer-GCNFormer Network [[code]](https://github.com/TaatiTeam/MotionAGFormer)
 
 
 # simplify optical or inertial based motion capture
