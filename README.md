@@ -73,6 +73,7 @@ Collecting papers about human motion capture
 65. Towards Robust and Smooth 3D Multi-Person Pose Estimationfrom Monocular Videos in the Wild [[pdf]](https://arxiv.org/pdf/2309.08644.pdf)
 66. MOVIN: Real-time Motion Capture using a Single LiDAR [[project]](https://movin3d.github.io/movin_pg2023/)
 67. Sparse and Privacy-enhanced Representation for Human Pose Estimation [[project]](https://lyhsieh.github.io/sphp/)
+68. Markerless Motion Capture and Biomechanical Analysis Pipeline [[pdf]](https://arxiv.org/pdf/2303.10654.pdf) | [[code]](https://github.com/peabody124/PosePipeline/)
 
 
 # methods based on body model such as smpl/smpl-x
