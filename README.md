@@ -267,6 +267,7 @@ Collecting papers about human motion capture
 22. EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes [[pdf]](https://arxiv.org/pdf/2308.06493.pdf)
 23. Noise-in, Bias-out: Balanced and Real-time MoCap Solving [[project]](https://moverseai.github.io/noise-tail/)
 24. Realistic Full-Body Tracking from Sparse Observations via Joint-Level Modeling [[project]](https://zxz267.github.io/AvatarJLM/)
+25. SparsePoser: Real-time Full-body Motion Reconstruction from Sparse Data [[project]](https://upc-virvig.github.io/SparsePoser/)
 
 
 
