@@ -240,6 +240,7 @@ Collecting papers about human motion capture
 38. Refined Temporal PyramidRefined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation [[code]](https://github.com/hbing-l/RTPCA)
 39. MotionAGFormer: Enhancing 3D Pose Estimation with a Transformer-GCNFormer Network [[code]](https://github.com/TaatiTeam/MotionAGFormer)
 40. A Single 2D Pose with Context is Worth Hundreds for 3D Human Pose Estimation [[project]](https://qitaozhao.github.io/ContextAware-PoseFormer)
+41. BlazePose GHUM Holistic: Real-time 3D Human Landmarks and Pose Estimation [[pdf]](https://arxiv.org/pdf/2206.11678.pdf)
 
 
 # simplify optical or inertial based motion capture
