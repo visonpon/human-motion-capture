@@ -198,6 +198,7 @@ Collecting papers about human motion capture
 116.  Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video [[project]](https://kasvii.github.io/PMCE/)
 117.  PhaseMP: Robust 3D Pose Estimation via Phase-conditioned Human Motion Prior [[project]](https://rubbly.cn/publications/phaseMP/)
 118.  PACE: Human and Camera Motion Estimation from in-the-wild Videos [[project]](https://nvlabs.github.io/PACE/)
+119.  Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos [[pdf]](https://arxiv.org/pdf/2311.11662.pdf)
 
 
 # human 3d pose estimation
