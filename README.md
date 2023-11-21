@@ -245,6 +245,7 @@ Collecting papers about human motion capture
 41. BlazePose GHUM Holistic: Real-time 3D Human Landmarks and Pose Estimation [[pdf]](https://arxiv.org/pdf/2206.11678.pdf)
 42. Efficient Hierarchical Multi-view Fusion Transformer for 3D Human Pose Estimation [[code]](https://github.com/z0911k/hmvformer)
 43. Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2311.12028.pdf)
+44. Multiple View Geometry Transformers for 3D Human Pose Estimation [[code]](https://github.com/XunshanMan/MVGFormer)
 
 
 # simplify optical or inertial based motion capture
