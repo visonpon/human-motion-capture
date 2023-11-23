@@ -275,6 +275,7 @@ Collecting papers about human motion capture
 23. Noise-in, Bias-out: Balanced and Real-time MoCap Solving [[project]](https://moverseai.github.io/noise-tail/)
 24. Realistic Full-Body Tracking from Sparse Observations via Joint-Level Modeling [[project]](https://zxz267.github.io/AvatarJLM/)
 25. SparsePoser: Real-time Full-body Motion Reconstruction from Sparse Data [[project]](https://upc-virvig.github.io/SparsePoser/)
+26. Markerless 3D Skeleton Tracking Algorithm by Merging Multiple Inaccurate Skeleton Data from Multiple RGB-D Sensor [[pdf]](https://www.mdpi.com/1424-8220/22/9/3155)
 
 
 
