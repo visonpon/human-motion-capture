@@ -200,6 +200,7 @@ Collecting papers about human motion capture
 118.  PACE: Human and Camera Motion Estimation from in-the-wild Videos [[project]](https://nvlabs.github.io/PACE/)
 119.  Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos [[pdf]](https://arxiv.org/pdf/2311.11662.pdf)
 120.  OCHMR: Occluded Human Mesh Recovery [[project]](https://rawalkhirodkar.github.io/ochmr/)
+121.  CrowdRec: 3D Crowd Reconstruction from Single Color Images [[project]](https://github.com/boycehbz/CrowdRec)
 
 
 # human 3d pose estimation
