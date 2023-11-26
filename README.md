@@ -248,6 +248,7 @@ Collecting papers about human motion capture
 42. Efficient Hierarchical Multi-view Fusion Transformer for 3D Human Pose Estimation [[code]](https://github.com/z0911k/hmvformer)
 43. Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2311.12028.pdf)
 44. Multiple View Geometry Transformers for 3D Human Pose Estimation [[code]](https://github.com/XunshanMan/MVGFormer)
+45. ZeDO:Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation [[project]](https://zhyjiang.github.io/ZeDO-proj/)
 
 
 # simplify optical or inertial based motion capture
