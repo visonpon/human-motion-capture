@@ -75,6 +75,7 @@ Collecting papers about human motion capture
 67. Sparse and Privacy-enhanced Representation for Human Pose Estimation [[project]](https://lyhsieh.github.io/sphp/)
 68. Markerless Motion Capture and Biomechanical Analysis Pipeline [[pdf]](https://arxiv.org/pdf/2303.10654.pdf) | [[code]](https://github.com/peabody124/PosePipeline/)
 69. LiDAR-HMR: 3D Human Mesh Recovery from LiDAR [[code]](https://github.com/soullessrobot/LiDAR-HMR/)
+70. Estimating 3D Motion and Forces of Person-Object Interactions from Monocular Video [[code]](https://github.com/zongmianli/Estimating-3D-Motion-Forces)
 
 
 # methods based on body model such as smpl/smpl-x
