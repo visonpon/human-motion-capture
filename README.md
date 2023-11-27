@@ -202,6 +202,7 @@ Collecting papers about human motion capture
 119.  Enhanced Spatio-Temporal Context for Temporally Consistent Robust 3D Human Motion Recovery from Monocular Videos [[pdf]](https://arxiv.org/pdf/2311.11662.pdf)
 120.  OCHMR: Occluded Human Mesh Recovery [[project]](https://rawalkhirodkar.github.io/ochmr/)
 121.  CrowdRec: 3D Crowd Reconstruction from Single Color Images [[project]](https://github.com/boycehbz/CrowdRec)
+122.  BiDRN: Binarized Dual Residual Network for 3D Whole-body Human Mesh Recovery [[code]](https://github.com/ZHITENGLI/BiDRN)
 
 
 # human 3d pose estimation
@@ -250,6 +251,7 @@ Collecting papers about human motion capture
 43. Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2311.12028.pdf)
 44. Multiple View Geometry Transformers for 3D Human Pose Estimation [[code]](https://github.com/XunshanMan/MVGFormer)
 45. ZeDO:Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation [[project]](https://zhyjiang.github.io/ZeDO-proj/)
+46. RSB-Pose: Robust Short-Baseline Binocular 3D human Pose Estimation with Occlusion Handling [[pdf]](https://arxiv.org/pdf/2311.14242.pdf)
 
 
 # simplify optical or inertial based motion capture
