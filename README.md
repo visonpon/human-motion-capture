@@ -77,6 +77,7 @@ Collecting papers about human motion capture
 69. LiDAR-HMR: 3D Human Mesh Recovery from LiDAR [[code]](https://github.com/soullessrobot/LiDAR-HMR/)
 70. Estimating 3D Motion and Forces of Person-Object Interactions from Monocular Video [[code]](https://github.com/zongmianli/Estimating-3D-Motion-Forces)
 71. Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement [[pdf]](https://arxiv.org/pdf/2311.16495.pdf)
+72. BundleMoCap: Efficient, Robust and Smooth Motion Capture from Sparse Multiview Videos [[project]](https://moverseai.github.io/bundle/)
 
 
 # methods based on body model such as smpl/smpl-x
