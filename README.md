@@ -255,6 +255,8 @@ Collecting papers about human motion capture
 44. Multiple View Geometry Transformers for 3D Human Pose Estimation [[code]](https://github.com/XunshanMan/MVGFormer)
 45. ZeDO:Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation [[project]](https://zhyjiang.github.io/ZeDO-proj/)
 46. RSB-Pose: Robust Short-Baseline Binocular 3D human Pose Estimation with Occlusion Handling [[pdf]](https://arxiv.org/pdf/2311.14242.pdf)
+47. DPoser: Diffusion Model as Robust 3D Human Pose Prior [[project]](https://dposer.github.io/)
+48. ointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2312.06409.pdf)
 
 
 # simplify optical or inertial based motion capture
