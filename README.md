@@ -78,6 +78,8 @@ Collecting papers about human motion capture
 70. Estimating 3D Motion and Forces of Person-Object Interactions from Monocular Video [[code]](https://github.com/zongmianli/Estimating-3D-Motion-Forces)
 71. Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement [[pdf]](https://arxiv.org/pdf/2311.16495.pdf)
 72. BundleMoCap: Efficient, Robust and Smooth Motion Capture from Sparse Multiview Videos [[project]](https://moverseai.github.io/bundle/)
+73. WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion [[project]](https://wham.is.tue.mpg.de/)
+74. RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation [[pdf]](https://arxiv.org/pdf/2312.07526.pdf)
 
 
 # methods based on body model such as smpl/smpl-x
