@@ -208,6 +208,7 @@ Collecting papers about human motion capture
 121.  CrowdRec: 3D Crowd Reconstruction from Single Color Images [[project]](https://github.com/boycehbz/CrowdRec)
 122.  BiDRN: Binarized Dual Residual Network for 3D Whole-body Human Mesh Recovery [[code]](https://github.com/ZHITENGLI/BiDRN)
 123.  W-HMR: Human Mesh Recovery in World Space with Weak-supervised Camera Calibration and Orientation Correction [[project]](https://yw0208.github.io/w-hmr/)
+124.  Towards Robust and Expressive Whole-body Human Pose and Shape Estimation [[code]](https://github.com/robosmplx/robosmplx)
 
 
 # human 3d pose estimation
