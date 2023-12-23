@@ -260,6 +260,7 @@ Collecting papers about human motion capture
 46. RSB-Pose: Robust Short-Baseline Binocular 3D human Pose Estimation with Occlusion Handling [[pdf]](https://arxiv.org/pdf/2311.14242.pdf)
 47. DPoser: Diffusion Model as Robust 3D Human Pose Prior [[project]](https://dposer.github.io/)
 48. ointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2312.06409.pdf)
+49. GFPose: Learning 3D Human Pose Prior with Gradient Fields [[project]](https://sites.google.com/view/gfpose/home)
 
 
 # simplify optical or inertial based motion capture
