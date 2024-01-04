@@ -209,6 +209,7 @@ Collecting papers about human motion capture
 122.  BiDRN: Binarized Dual Residual Network for 3D Whole-body Human Mesh Recovery [[code]](https://github.com/ZHITENGLI/BiDRN)
 123.  W-HMR: Human Mesh Recovery in World Space with Weak-supervised Camera Calibration and Orientation Correction [[project]](https://yw0208.github.io/w-hmr/)
 124.  Towards Robust and Expressive Whole-body Human Pose and Shape Estimation [[code]](https://github.com/robosmplx/robosmplx)
+125.  STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion [[project]](https://yw0208.github.io/staf/)
 
 
 # human 3d pose estimation
