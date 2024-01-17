@@ -80,6 +80,7 @@ Collecting papers about human motion capture
 72. BundleMoCap: Efficient, Robust and Smooth Motion Capture from Sparse Multiview Videos [[project]](https://moverseai.github.io/bundle/)
 73. WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion [[project]](https://wham.is.tue.mpg.de/)
 74. RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation [[pdf]](https://arxiv.org/pdf/2312.07526.pdf)
+75. Robust Human Motion Reconstruction via Diffusion [[project]](https://sanweiliti.github.io/ROHM/ROHM.html)
 
 
 # methods based on body model such as smpl/smpl-x
