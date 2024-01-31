@@ -263,6 +263,8 @@ Collecting papers about human motion capture
 47. DPoser: Diffusion Model as Robust 3D Human Pose Prior [[project]](https://dposer.github.io/)
 48. ointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation [[pdf]](https://arxiv.org/pdf/2312.06409.pdf)
 49. GFPose: Learning 3D Human Pose Prior with Gradient Fields [[project]](https://sites.google.com/view/gfpose/home)
+50. Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers [[pdf]](https://arxiv.org/pdf/2401.16700.pdf)
+51. Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras [[pdf]](https://arxiv.org/pdf/2401.15616.pdf)
 
 
 # simplify optical or inertial based motion capture
