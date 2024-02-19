@@ -295,6 +295,7 @@ Collecting papers about human motion capture
 25. SparsePoser: Real-time Full-body Motion Reconstruction from Sparse Data [[project]](https://upc-virvig.github.io/SparsePoser/)
 26. Markerless 3D Skeleton Tracking Algorithm by Merging Multiple Inaccurate Skeleton Data from Multiple RGB-D Sensor [[pdf]](https://www.mdpi.com/1424-8220/22/9/3155)
 27. Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera [[project]](https://jiyewise.github.io/projects/MocapEvery/)
+28. DivaTrack: Diverse Bodies and Motions from Acceleration-Enhanced Three-Point Trackers [[pdf]](https://arxiv.org/pdf/2402.09211.pdf)
 
 
 
