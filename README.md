@@ -214,6 +214,7 @@ Collecting papers about human motion capture
 125.  STAF: 3D Human Mesh Recovery from Video with Spatio-Temporal Alignment Fusion [[project]](https://yw0208.github.io/staf/)
 126.  Multi-HMR: Multi-Person Whole-Body Human Mesh Recovery in a Single Shot [[code]](https://github.com/naver/multi-hmr)
 127.  ScoreHMR: Score-Guided Diffusion for 3D Human Recovery [[project]](https://statho.github.io/ScoreHMR/)
+128.  Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2403.09063.pdf)
 
 
 # human 3d pose estimation
