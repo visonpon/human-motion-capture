@@ -300,6 +300,7 @@ Collecting papers about human motion capture
 27. Mocap Everyone Everywhere: Lightweight Motion Capture With Smartwatches and a Head-Mounted Camera [[project]](https://jiyewise.github.io/projects/MocapEvery/)
 28. DivaTrack: Diverse Bodies and Motions from Acceleration-Enhanced Three-Point Trackers [[pdf]](https://arxiv.org/pdf/2402.09211.pdf)
 29. HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations [[project]](https://pico-ai-team.github.io/hmd-poser)
+30. Real-Time Simulated Avatar from Head-Mounted Sensors [[project]](https://www.zhengyiluo.com/SimXR/)
 
 
 
