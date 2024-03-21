@@ -335,3 +335,4 @@ Collecting papers about human motion capture
 26. CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions [[project]](http://www.lidarhumanmotion.net/cimi4d/)
 27. IMoS: Intent-Driven Full-Body Motion Synthesis for Human-Object Interactions [[code]](https://github.com/anindita127/IMoS)
 28. InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion [[project]](https://sirui-xu.github.io/InterDiff/)
+29. 3D Human Reconstrution in the Wild with Synthetic Data using Generative Models [[project]](https://yongtaoge.github.io/projects/humanwild/)
