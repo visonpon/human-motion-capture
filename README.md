@@ -336,3 +336,4 @@ Collecting papers about human motion capture
 27. IMoS: Intent-Driven Full-Body Motion Synthesis for Human-Object Interactions [[code]](https://github.com/anindita127/IMoS)
 28. InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion [[project]](https://sirui-xu.github.io/InterDiff/)
 29. 3D Human Reconstrution in the Wild with Synthetic Data using Generative Models [[project]](https://yongtaoge.github.io/projects/humanwild/)
+30.  AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation [[project]](https://ttxskk.github.io/AiOS/)
