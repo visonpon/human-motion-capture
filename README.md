@@ -215,6 +215,7 @@ Collecting papers about human motion capture
 126.  Multi-HMR: Multi-Person Whole-Body Human Mesh Recovery in a Single Shot [[code]](https://github.com/naver/multi-hmr)
 127.  ScoreHMR: Score-Guided Diffusion for 3D Human Recovery [[project]](https://statho.github.io/ScoreHMR/)
 128.  Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2403.09063.pdf)
+129.  AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation [[project]](https://ttxskk.github.io/AiOS/)
 
 
 # human 3d pose estimation
@@ -336,4 +337,3 @@ Collecting papers about human motion capture
 27. IMoS: Intent-Driven Full-Body Motion Synthesis for Human-Object Interactions [[code]](https://github.com/anindita127/IMoS)
 28. InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion [[project]](https://sirui-xu.github.io/InterDiff/)
 29. 3D Human Reconstrution in the Wild with Synthetic Data using Generative Models [[project]](https://yongtaoge.github.io/projects/humanwild/)
-30.  AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation [[project]](https://ttxskk.github.io/AiOS/)
