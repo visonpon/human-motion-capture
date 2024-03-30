@@ -82,6 +82,7 @@ Collecting papers about human motion capture
 74. RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation [[pdf]](https://arxiv.org/pdf/2312.07526.pdf)
 75. Robust Human Motion Reconstruction via Diffusion [[project]](https://sanweiliti.github.io/ROHM/ROHM.html)
 76. LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment [[pdf]](https://arxiv.org/pdf/2402.17171.pdf)
+77. MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors [[project]](https://haolyuan.github.io/MMVP-Dataset/)
 
 
 # methods based on body model such as smpl/smpl-x
