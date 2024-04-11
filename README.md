@@ -218,6 +218,7 @@ Collecting papers about human motion capture
 127.  ScoreHMR: Score-Guided Diffusion for 3D Human Recovery [[project]](https://statho.github.io/ScoreHMR/)
 128.  Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2403.09063.pdf)
 129.  AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation [[project]](https://ttxskk.github.io/AiOS/)
+130.  MoCap-to-Visual Domain Adaptation for Efficient Human Mesh Estimation from 2D Keypoints [[project]](https://key2mesh.github.io/)
 
 
 # human 3d pose estimation
