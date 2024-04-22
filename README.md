@@ -342,3 +342,4 @@ Collecting papers about human motion capture
 28. InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion [[project]](https://sirui-xu.github.io/InterDiff/)
 29. 3D Human Reconstrution in the Wild with Synthetic Data using Generative Models [[project]](https://yongtaoge.github.io/projects/humanwild/)
 30. MultiPhys: Multi-Person Physics-aware 3D Motion Estimation  [[project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/)
+31. Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption [[code]](https://github.com/boycehbz/HumanInteraction)
