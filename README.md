@@ -220,6 +220,7 @@ Collecting papers about human motion capture
 129.  AiOS: All-in-One-Stage Expressive Human Pose and Shape Estimation [[project]](https://ttxskk.github.io/AiOS/)
 130.  MoCap-to-Visual Domain Adaptation for Efficient Human Mesh Estimation from 2D Keypoints [[project]](https://key2mesh.github.io/)
 131.  SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers [[pdf]](https://arxiv.org/pdf/2404.12625.pdf)
+132.  Advancing Human Mesh Recovery with a Tokenized Pose Representation [[project]](https://tokenhmr.is.tue.mpg.de/)
 
 
 # human 3d pose estimation
