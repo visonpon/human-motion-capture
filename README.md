@@ -222,6 +222,7 @@ Collecting papers about human motion capture
 131.  SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers [[pdf]](https://arxiv.org/pdf/2404.12625.pdf)
 132.  Advancing Human Mesh Recovery with a Tokenized Pose Representation [[project]](https://tokenhmr.is.tue.mpg.de/)
 133.  Pose Priors from Language Models [[pdf]](https://arxiv.org/pdf/2405.03689)
+134.  RemoCap: Disentangled Representation Learning for Motion Capture [[project]](https://wanghongsheng01.github.io/RemoCap/)
 
 
 # human 3d pose estimation
