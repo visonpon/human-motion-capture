@@ -311,6 +311,7 @@ Collecting papers about human motion capture
 28. DivaTrack: Diverse Bodies and Motions from Acceleration-Enhanced Three-Point Trackers [[pdf]](https://arxiv.org/pdf/2402.09211.pdf)
 29. HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations [[project]](https://pico-ai-team.github.io/hmd-poser)
 30. Real-Time Simulated Avatar from Head-Mounted Sensors [[project]](https://www.zhengyiluo.com/SimXR/)
+31. Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging [[code]](https://github.com/eth-siplab/UltraInertialPoser)
 
 
 
