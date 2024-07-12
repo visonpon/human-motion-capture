@@ -225,6 +225,7 @@ Collecting papers about human motion capture
 133.  Pose Priors from Language Models [[pdf]](https://arxiv.org/pdf/2405.03689)
 134.  RemoCap: Disentangled Representation Learning for Motion Capture [[project]](https://wanghongsheng01.github.io/RemoCap/)
 135.  okenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation [[project]](https://tokenhmr.is.tue.mpg.de/)
+136.  Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation [[project]](https://virtualhumans.mpi-inf.mpg.de/nlf/)
 
 
 # human 3d pose estimation
