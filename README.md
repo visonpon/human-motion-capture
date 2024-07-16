@@ -350,3 +350,4 @@ Collecting papers about human motion capture
 29. 3D Human Reconstrution in the Wild with Synthetic Data using Generative Models [[project]](https://yongtaoge.github.io/projects/humanwild/)
 30. MultiPhys: Multi-Person Physics-aware 3D Motion Estimation  [[project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/)
 31. Closely Interactive Human Reconstruction with Proxemics and Physics-Guided Adaption [[code]](https://github.com/boycehbz/HumanInteraction)
+32. LiveHPS++: Robust and Coherent Motion Capture in Dynamic Free Environment [[project]](https://4dvlab.github.io/project_page/LiveHPS2.html)
