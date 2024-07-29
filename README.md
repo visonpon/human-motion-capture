@@ -281,6 +281,7 @@ Collecting papers about human motion capture
 49. GFPose: Learning 3D Human Pose Prior with Gradient Fields [[project]](https://sites.google.com/view/gfpose/home)
 50. Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers [[pdf]](https://arxiv.org/pdf/2401.16700.pdf)
 51. Multi-Person 3D Pose Estimation from Multi-View Uncalibrated Depth Cameras [[pdf]](https://arxiv.org/pdf/2401.15616.pdf)
+52. PAFUSE: Part-based Diffusion for 3D Whole-Body Pose Estimation [[code]](https://github.com/valeoai/PAFUSE)
 
 
 # simplify optical or inertial based motion capture
