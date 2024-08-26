@@ -85,6 +85,7 @@ Collecting papers about human motion capture
 77. MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors [[project]](https://haolyuan.github.io/MMVP-Dataset/)
 78. Towards Robust and Smooth 3D Multi-Person Pose Estimationfrom Monocular Videos in the Wild [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Towards_Robust_and_Smooth_3D_Multi-Person_Pose_Estimation_from_Monocular_ICCV_2023_paper.pdf)
 79. MultiPhys: Multi-Person Physics-aware 3D Motion Estimation [[project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/)
+80. AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos [[project]](https://eth-ait.github.io/AvatarPose/)
 
 
 # methods based on body model such as smpl/smpl-x
