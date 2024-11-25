@@ -86,6 +86,7 @@ Collecting papers about human motion capture
 78. Towards Robust and Smooth 3D Multi-Person Pose Estimationfrom Monocular Videos in the Wild [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Towards_Robust_and_Smooth_3D_Multi-Person_Pose_Estimation_from_Monocular_ICCV_2023_paper.pdf)
 79. MultiPhys: Multi-Person Physics-aware 3D Motion Estimation [[project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/)
 80. AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos [[project]](https://eth-ait.github.io/AvatarPose/)
+81. GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates [[code]](https://github.com/zju3dv/GVHMR?continueFlag=8041dd52ae308fd1b8ee6ae2b089292a)
 
 
 # methods based on body model such as smpl/smpl-x
