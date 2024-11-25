@@ -87,6 +87,7 @@ Collecting papers about human motion capture
 79. MultiPhys: Multi-Person Physics-aware 3D Motion Estimation [[project]](http://www.iri.upc.edu/people/nugrinovic/multiphys/)
 80. AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos [[project]](https://eth-ait.github.io/AvatarPose/)
 81. GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates [[code]](https://github.com/zju3dv/GVHMR?continueFlag=8041dd52ae308fd1b8ee6ae2b089292a)
+82. MultiPhys: Physics-aware 3D Motion [[code]](https://github.com/nicolasugrinovic/multiphys)
 
 
 # methods based on body model such as smpl/smpl-x
