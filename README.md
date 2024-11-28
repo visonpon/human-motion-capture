@@ -89,6 +89,7 @@ Collecting papers about human motion capture
 81. GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates [[code]](https://github.com/zju3dv/GVHMR?continueFlag=8041dd52ae308fd1b8ee6ae2b089292a)
 82. MultiPhys: Physics-aware 3D Motion [[code]](https://github.com/nicolasugrinovic/multiphys)
 83. X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation [[code]](https://github.com/charrrrrlie/x-as-supervision)
+84. TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos [[project]](https://yufu-wang.github.io/tram4d/)
 
 
 # methods based on body model such as smpl/smpl-x
