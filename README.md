@@ -90,6 +90,7 @@ Collecting papers about human motion capture
 82. MultiPhys: Physics-aware 3D Motion [[code]](https://github.com/nicolasugrinovic/multiphys)
 83. X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation [[code]](https://github.com/charrrrrlie/x-as-supervision)
 84. TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos [[project]](https://yufu-wang.github.io/tram4d/)
+85. BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation [[project]]([https://arxiv.org/pdf/2412.08640](https://research.nvidia.com/labs/amri/projects/blade/))
 
 
 # methods based on body model such as smpl/smpl-x
