@@ -234,6 +234,7 @@ Collecting papers about human motion capture
 136.  Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation [[project]](https://virtualhumans.mpi-inf.mpg.de/nlf/) | [[code]](https://github.com/isarandi/nlf)
 137.  Web-scale In-the-wild Video Dataset for 3D Avatar Creation [[project]](https://wildavatar.github.io/)
 138.  HumEnv: Humanoid Environment for Reinforcement Learning [[code]](https://github.com/facebookresearch/humenv)
+139.  CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty [[project]](https://sites.google.com/view/champpp)
 
 
 # human 3d pose estimation
