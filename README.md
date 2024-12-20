@@ -235,6 +235,7 @@ Collecting papers about human motion capture
 137.  Web-scale In-the-wild Video Dataset for 3D Avatar Creation [[project]](https://wildavatar.github.io/)
 138.  HumEnv: Humanoid Environment for Reinforcement Learning [[code]](https://github.com/facebookresearch/humenv)
 139.  CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty [[project]](https://sites.google.com/view/champpp)
+140.  GenHMR: Generative Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2412.14444)
 
 
 # human 3d pose estimation
