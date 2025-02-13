@@ -327,6 +327,7 @@ Collecting papers about human motion capture
 30. Real-Time Simulated Avatar from Head-Mounted Sensors [[project]](https://www.zhengyiluo.com/SimXR/)
 31. Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging [[code]](https://github.com/eth-siplab/UltraInertialPoser)
 32. Motion Capture from Inertial and Vision Sensors [[pdf]](https://arxiv.org/pdf/2407.16341)
+33. EventEgo3D++: 3D Human Motion Capture from a Head Mounted Event Camera [[project]](https://eventego3d.mpi-inf.mpg.de/)
 
 
 
