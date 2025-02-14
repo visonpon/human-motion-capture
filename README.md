@@ -92,6 +92,7 @@ Collecting papers about human motion capture
 84. TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos [[project]](https://yufu-wang.github.io/tram4d/)
 85. BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation [[project]]([https://arxiv.org/pdf/2412.08640](https://research.nvidia.com/labs/amri/projects/blade/))
 86. WorldPose: A World Cup Dataset for Multi-Person Global 3D Human Pose Estimation [[project]](https://eth-ait.github.io/WorldPoseDataset/)
+87. TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos [[project]](https://yufu-wang.github.io/tram4d/)
 
 
 # methods based on body model such as smpl/smpl-x
