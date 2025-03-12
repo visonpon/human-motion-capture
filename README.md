@@ -238,6 +238,7 @@ Collecting papers about human motion capture
 138.  HumEnv: Humanoid Environment for Reinforcement Learning [[code]](https://github.com/facebookresearch/humenv)
 139.  CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty [[project]](https://sites.google.com/view/champpp)
 140.  GenHMR: Generative Human Mesh Recovery [[pdf]](https://arxiv.org/pdf/2412.14444)
+141.  Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision [[project]](https://fish2mesh.github.io/)
 
 
 # human 3d pose estimation
